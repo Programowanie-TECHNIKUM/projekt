@@ -1,0 +1,6 @@
+- gry / fix
+- brak autoryzacji na niektorych stronach /fix
+- fix login /fix
+- dodanie wlasnego miejsca w lb
+- dodanie wyjansienia w sklep
+- upiekszenie programistycznej amszyny

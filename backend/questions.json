@@ -1,0 +1,3759 @@
+[
+    {
+        "title": "Mechanizm obietnic (ang. promises) w języku JavaScript ma na celu",
+        "answers": {
+            "1": "zastąpić mechanizm dziedziczenia w programowaniu obiektowym.",
+            "2": "obsłużyć przechwytywanie błędów aplikacji.",
+            "3": "poprawić czytelność kodu synchronicznego.",
+            "4": "obsłużyć funkcjonalność związaną z kodem asynchronicznym."
+        },
+        "correctAnswers": {
+            "text": "obsłużyć funkcjonalność związaną z kodem asynchronicznym.",
+            "number": 4
+        }
+    },
+    {
+        "title": "Zapisane w kodzie szesnastkowym składowe RGB koloru #AA41FF po przekształceniu do kodu dziesiętnego wynoszą kolejno",
+        "answers": {
+            "1": ", 64, 255",
+            "2": ", 65, 255",
+            "3": ", 64, 255",
+            "4": ", 65, 255"
+        },
+        "correctAnswers": {
+            "text": ", 65, 255",
+            "number": 4
+        }
+    },
+    {
+        "title": "Oznaczeniem komentarza jednoliniowego w języku Python jest:",
+        "answers": {
+            "1": "#",
+            "2": "!",
+            "3": "\"\"",
+            "4": "//"
+        },
+        "correctAnswers": {
+            "text": "#",
+            "number": 1
+        }
+    },
+    {
+        "title": "Aplikacje Web wykonane we frameworku Angular lub bibliotece React i działające na domyślnych ustawieniach portów można uruchomić na lokalnym serwerze, wpisując w przeglądarce",
+        "answers": {
+            "1": "localhost:8000 (React) lub localhost:49887 (Angular)",
+            "2": "localhost:8080 (React) lub localhost:8000 (Angular)",
+            "3": "localhost:3000 (React) lub localhost:4200 (Angular)",
+            "4": "localhost:5001 (React) lub localhost:8080 (Angular)"
+        },
+        "correctAnswers": {
+            "text": "localhost:3000 (React) lub localhost:4200 (Angular)",
+            "number": 3
+        }
+    },
+    {
+        "title": "Aby zaprojektować zestaw danych do zainicjowania algorytmu sortowania bąbelkowego tablicy, należy zastosować przynajmniej typy:",
+        "answers": {
+            "1": "jeden tablicowy, dwa liczbowe do kontroli pętli, jeden do zamiany elementów miejscami",
+            "2": "jeden tablicowy, jeden liczbowy do kontroli pętli, dwa do zamiany elementów miejscami",
+            "3": "dwa tablicowe, jeden liczbowy do kontroli pętli",
+            "4": "dwa tablicowe, dwa do zamiany elementów miejscami"
+        },
+        "correctAnswers": {
+            "text": "jeden tablicowy, dwa liczbowe do kontroli pętli, jeden do zamiany elementów miejscami",
+            "number": 1
+        }
+    },
+    {
+        "title": "Utworzenie procedury składowej o nazwie dodajUsera w MS SQL rozpoczyna się od poleceń",
+        "answers": {
+            "1": "add dodajUsera procedure",
+            "2": "create procedure dodajUsera",
+            "3": "create dodajUsera procedure",
+            "4": "add procedure dodajUsera"
+        },
+        "correctAnswers": {
+            "text": "create procedure dodajUsera",
+            "number": 2
+        }
+    },
+    {
+        "title": "Okna dialogowe niemodalne służą do",
+        "answers": {
+            "1": "kontrolowania stanu aplikacji poprzez systemy menu.",
+            "2": "blokowania działania aplikacji na czas wprowadzenia i zatwierdzenia danych.",
+            "3": "kontrolowania ustawień aplikacji, jako okno pozostające otwarte na ekranie przez cały czas trwania aplikacji.",
+            "4": "wyświetlania komunikatów z koniecznością ich potwierdzenia, aby dalej kontynuować działanie aplikacji."
+        },
+        "correctAnswers": {
+            "text": "kontrolowania ustawień aplikacji, jako okno pozostające otwarte na ekranie przez cały czas trwania aplikacji.",
+            "number": 3
+        }
+    },
+    {
+        "title": "Rekomendacje standardu WCAG 2.0 związane z percepcją dotyczą:",
+        "answers": {
+            "1": "przedstawienia komponentów interfejsu użytkownika",
+            "2": "zapewnienia wystarczającej ilości czasu na przeczytanie i przetworzenie treści",
+            "3": "zapewnienia interakcji pomiędzy komponentami użytkownika przy użyciu klawiatury",
+            "4": "zrozumienia i rzetelności w dostarczonych treściach na stronie"
+        },
+        "correctAnswers": {
+            "text": "przedstawienia komponentów interfejsu użytkownika",
+            "number": 1
+        }
+    },
+    {
+        "title": "Metoda poszukiwań w tablicach posortowanych, która polega na podzieleniu tablicy na kilka bloków i wyszukaniu liniowym tylko w tym bloku, w którym docelowy element może się znajdować, w języku angielskim nosi nazwę",
+        "answers": {
+            "1": "Exponential search.",
+            "2": "Ternary search.",
+            "3": "Binary search.",
+            "4": "Jump search."
+        },
+        "correctAnswers": {
+            "text": "Jump search.",
+            "number": 4
+        }
+    },
+    {
+        "title": "Oprogramowaniem do śledzenia błędów oraz do zarządzania projektami jest:",
+        "answers": {
+            "1": "Bugzilla",
+            "2": "Jasmine",
+            "3": "Git",
+            "4": "Jira"
+        },
+        "correctAnswers": {
+            "text": "Jira",
+            "number": 4
+        }
+    },
+    {
+        "title": "Aby utworzyć aplikację mobilną typu cross-platform w języku C# można zastosować:",
+        "answers": {
+            "1": "platformę Xamarin",
+            "2": "środowisko XCode",
+            "3": "środowisko Android Studio",
+            "4": "platformę React Native"
+        },
+        "correctAnswers": {
+            "text": "platformę Xamarin",
+            "number": 1
+        }
+    },
+    {
+        "title": "Obiektowe podejście do rozwiązywania problemów obejmuje między innymi:",
+        "answers": {
+            "1": "klasy, obiekty i hermetyzację",
+            "2": "pola, metody, rekurencję i kwerendy",
+            "3": "wyzwalacze i polimorfizm",
+            "4": "zmienne, procedury i funkcje"
+        },
+        "correctAnswers": {
+            "text": "klasy, obiekty i hermetyzację",
+            "number": 1
+        }
+    },
+    {
+        "title": "Cechami dobrego negocjatora są:",
+        "answers": {
+            "1": "intuicja, cierpliwość, asertywność",
+            "2": "asertywność, pesymizm, buta",
+            "3": "dobra reputacja, przekora, porywczość",
+            "4": "lojalność, nieśmiałość, uczciwość"
+        },
+        "correctAnswers": {
+            "text": "intuicja, cierpliwość, asertywność",
+            "number": 1
+        }
+    },
+    {
+        "title": "Zastosowanie typu DECIMAL języka SQL wymaga wcześniejszego zdefiniowania długości (liczby cyfr) przed przecinkiem oraz długości cyfr po przecinku. Jest to zapis:",
+        "answers": {
+            "1": "logiczny",
+            "2": "łańcuchowy",
+            "3": "stałoprzecinkowy",
+            "4": "zmiennoprzecinkowy"
+        },
+        "correctAnswers": {
+            "text": "zmiennoprzecinkowy",
+            "number": 4
+        }
+    },
+    {
+        "title": "Dane z serwera do aplikacji front-end można przesłać za pomocą:",
+        "answers": {
+            "1": "metody POST",
+            "2": "protokołu SSH",
+            "3": "formatu JSON",
+            "4": "biblioteki jQuery"
+        },
+        "correctAnswers": {
+            "text": "formatu JSON",
+            "number": 3
+        }
+    },
+    {
+        "title": "Programista może zastosować framework Angular w celu implementacji aplikacji:",
+        "answers": {
+            "1": "mobilnej",
+            "2": "desktopowej",
+            "3": "typu front-end",
+            "4": "typu back-end"
+        },
+        "correctAnswers": {
+            "text": "typu front-end",
+            "number": 3
+        }
+    },
+    {
+        "title": "Poszkodowanego należy ułożyć w pozycji bocznej bezpiecznej w przypadku:",
+        "answers": {
+            "1": "omdlenia, gdy osoba oddycha",
+            "2": "omdlenia i braku tętna",
+            "3": "urazu pleców, gdy osoba jest przytomna",
+            "4": "uszkodzenia kręgosłupa"
+        },
+        "correctAnswers": {
+            "text": "omdlenia, gdy osoba oddycha",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jednym z etapów publikacji mobilnej w sklepie Google Play są testy Beta, których cechą charakterystyczną jest to, że są one:",
+        "answers": {
+            "1": "podzielone na testy funkcjonalne, wydajnościowe i skalowalności",
+            "2": "przeprowadzane w oparciu o dokument z przypadkami testowymi",
+            "3": "wykonane przez grupę docelowych użytkowników aplikacji",
+            "4": "wykonywane przez grupę zatrudnionych testerów z firmy Google"
+        },
+        "correctAnswers": {
+            "text": "wykonane przez grupę docelowych użytkowników aplikacji",
+            "number": 3
+        }
+    },
+    {
+        "title": "Kolor Pale Green w systemie RGB ma postać RGB(152, 251, 152). Kod szesnastkowy tego koloru wynosi:",
+        "answers": {
+            "1": " FE 98",
+            "2": " FB 98",
+            "3": "A FB A0",
+            "4": "A FE A0"
+        },
+        "correctAnswers": {
+            "text": " FB 98",
+            "number": 2
+        }
+    },
+    {
+        "title": "Środowiskiem natywnym do programowania aplikacji desktopowych za pomocą języka C# jest:",
+        "answers": {
+            "1": "MS Visual Studio",
+            "2": "NetBeans",
+            "3": "Eclipse",
+            "4": "PyCharm"
+        },
+        "correctAnswers": {
+            "text": "MS Visual Studio",
+            "number": 1
+        }
+    },
+    {
+        "title": "W którym modelu Cyklu Życia Projektu Informatycznego występuje etap analizy ryzyka?",
+        "answers": {
+            "1": "W spiralnym.",
+            "2": "W kaskadowym.",
+            "3": "W modelu Fry’ego",
+            "4": "W modelu z prototypem."
+        },
+        "correctAnswers": {
+            "text": "W spiralnym.",
+            "number": 1
+        }
+    },
+    {
+        "title": "Który z wymienionych algorytmów działających na tablicy jednowymiarowej ma złożoność obliczeniową O(n2)?",
+        "answers": {
+            "1": "Wyszukiwanie binarne.",
+            "2": "Wypisanie elementów.",
+            "3": "Sortowanie bąbelkowe.",
+            "4": "Sortowanie szybkie."
+        },
+        "correctAnswers": {
+            "text": "Sortowanie bąbelkowe.",
+            "number": 3
+        }
+    },
+    {
+        "title": "Stosowanie wzorca Obserwator w programowaniu aplikacji WEB ma na celu:",
+        "answers": {
+            "1": "obsługę funkcji synchronicznych w kodzie aplikacji",
+            "2": "powiadamianie obiektów o zmianie stanu innych obiektów",
+            "3": "obserwowanie interakcji użytkownika i wysyłanie wyjątków",
+            "4": "dopasowanie interfejsu użytkownika do różnych typów użytkowników"
+        },
+        "correctAnswers": {
+            "text": "powiadamianie obiektów o zmianie stanu innych obiektów",
+            "number": 2
+        }
+    },
+    {
+        "title": "Pierwotnym przeznaczeniem środowisk IDE o nazwach: IntelliJ IDEA, Eclipse, NetBeans jest programowania w języku:",
+        "answers": {
+            "1": "C#",
+            "2": "C++",
+            "3": "Python",
+            "4": "Java"
+        },
+        "correctAnswers": {
+            "text": "Java",
+            "number": 4
+        }
+    },
+    {
+        "title": "Obsługę wyjątku, który wygenerowała aplikacja należy zdefiniować w sekcji",
+        "answers": {
+            "1": "catch",
+            "2": "try",
+            "3": "throw",
+            "4": "finally"
+        },
+        "correctAnswers": {
+            "text": "catch",
+            "number": 1
+        }
+    },
+    {
+        "title": "Która metodyka zarządzania projektem jest optymalna, gdy zakres projektu w początkowej fazie nie jest do końca znany, wymagania mogą ulec zmianie w trakcie trwania projektu oraz mogą pojawić się nowe wymagania?",
+        "answers": {
+            "1": "Model kaskadowy",
+            "2": "Model V",
+            "3": "Agile",
+            "4": "PRINCE2"
+        },
+        "correctAnswers": {
+            "text": "Agile",
+            "number": 3
+        }
+    },
+    {
+        "title": "Aplikacja mobilna wyświetla listę, której każdy z elementów może być dotknięty palcem, aby wyświetlić jego szczegóły. Zdarzenie odpowiadające tej akcji to",
+        "answers": {
+            "1": "value changed.",
+            "2": "button clicked.",
+            "3": "tapped.",
+            "4": "toggled."
+        },
+        "correctAnswers": {
+            "text": "tapped.",
+            "number": 3
+        }
+    },
+    {
+        "title": "Założenie programowania obiektowego polegające na ukrywaniu składowych klasy tak, aby były one dostępne tylko metodom tej klasy lub funkcjom zaprzyjaźnionym, to",
+        "answers": {
+            "1": "dziedziczenie.",
+            "2": "wyjątki.",
+            "3": "polimorfizm.",
+            "4": "hermetyzacja."
+        },
+        "correctAnswers": {
+            "text": "hermetyzacja.",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które zdarzenie jest wygenerowane, gdy nieaktywne okno lub kontrolka zostaje kliknięta myszą?",
+        "answers": {
+            "1": "blur.",
+            "2": "keyup.",
+            "3": "validating.",
+            "4": "focus."
+        },
+        "correctAnswers": {
+            "text": "focus.",
+            "number": 4
+        }
+    },
+    {
+        "title": "Strategia budowania algorytmu poprzez podział na dwa lub więcej mniejszych podproblemów tak długo, aż fragmentu staną się proste do bezpośredniego rozwiązania jest metodą:",
+        "answers": {
+            "1": "heurystyczną",
+            "2": "komiwojażera",
+            "3": "dziel i zwyciężaj",
+            "4": "najkrótszej ścieżki"
+        },
+        "correctAnswers": {
+            "text": "dziel i zwyciężaj",
+            "number": 3
+        }
+    },
+    {
+        "title": "Zadaniem interpretera jest:",
+        "answers": {
+            "1": "analizowanie składni całego programu przed jego uruchomieniem",
+            "2": "wykonanie skryptu instrukcja po instrukcji",
+            "3": "optymalizowanie większej części kodu, w celu szybszego wykonania",
+            "4": "przetłumaczenie kodu na kod maszynowy"
+        },
+        "correctAnswers": {
+            "text": "wykonanie skryptu instrukcja po instrukcji",
+            "number": 2
+        }
+    },
+    {
+        "title": "Przedstawione w filmie działania wykorzystują narzędzie",
+        "answers": {
+            "1": "debugera analizującego wykonywany kod",
+            "2": "kreatora kodu java",
+            "3": "kreatora GUI tłumaczącego kod do języka XAML",
+            "4": "kompilatora interfejsu graficznego"
+        },
+        "correctAnswers": {
+            "text": "kreatora GUI tłumaczącego kod do języka XAML",
+            "number": 3
+        }
+    },
+    {
+        "title": "Reguła zaangażowania i konsekwencji jako jedna z reguł wywierania wpływu wiąże się",
+        "answers": {
+            "1": "z odwdzięczeniem się osobie, która wyświadczyła nam przysługę",
+            "2": "z sugerowaniem się opinią danej społeczności",
+            "3": "z doprowadzeniem spraw do końca",
+            "4": "z posłuszeństwem wobec autorytetów"
+        },
+        "correctAnswers": {
+            "text": "z doprowadzeniem spraw do końca",
+            "number": 3
+        }
+    },
+    {
+        "title": "W językach C++ lub C# słowo kluczowe virtual można stosować do",
+        "answers": {
+            "1": "pól klasy",
+            "2": "konstruktorów",
+            "3": "metod klasy",
+            "4": "funkcji zaprzyjaźnionych"
+        },
+        "correctAnswers": {
+            "text": "metod klasy",
+            "number": 3
+        }
+    },
+    {
+        "title": "Narzędziem dedykowanym do implementacji aplikacji w środowisku WPf (ang. Windows Presentation Foundation) jest",
+        "answers": {
+            "1": "Visual Studio",
+            "2": "NetBeans",
+            "3": "PyCharm",
+            "4": "XamarinStudio"
+        },
+        "correctAnswers": {
+            "text": "Visual Studio",
+            "number": 1
+        }
+    },
+    {
+        "title": "Zastosowanie modyfikatora abstract w definicji metody klasy oznacza, że",
+        "answers": {
+            "1": "w klasie tej należy zaimplementować tę metodę",
+            "2": "nie można dziedziczyć po tej klasie",
+            "3": "w klasach dziedziczących nie wolno implementować tej metody",
+            "4": "klasa ta jest bazowa dla innych klas"
+        },
+        "correctAnswers": {
+            "text": "klasa ta jest bazowa dla innych klas",
+            "number": 4
+        }
+    },
+    {
+        "title": "Wskaż rodzaj testów, które przeprowadza się podczas fazy tworzenia kodu źródłowego",
+        "answers": {
+            "1": "testy wydajnościowe",
+            "2": "testy kompatybilności",
+            "3": "testy wdrożeniowe",
+            "4": "testy jednostkowe"
+        },
+        "correctAnswers": {
+            "text": "testy jednostkowe",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jedną z wytycznych standardu WCAG 2.0 jest",
+        "answers": {
+            "1": "unikanie zapisu informacji w formie uproszczonej",
+            "2": "zmniejszanie zawartości strony poprzez zaniechanie stosowania alternatyw tekstowych dla obrazów i video",
+            "3": "stosowanie kilku schematów kolorystycznych, w tym bardzo kontrastowego",
+            "4": "stosowanie jednego, odpowiednio dużego rozmiaru czcionki"
+        },
+        "correctAnswers": {
+            "text": "stosowanie kilku schematów kolorystycznych, w tym bardzo kontrastowego",
+            "number": 3
+        }
+    },
+    {
+        "title": "Wskaż niestabilny algorytm sortowania",
+        "answers": {
+            "1": "sortowanie bąbelkowe",
+            "2": "sortowanie przez wstawianie",
+            "3": "sortowanie szybkie",
+            "4": "sortowanie przez zliczanie"
+        },
+        "correctAnswers": {
+            "text": "sortowanie szybkie",
+            "number": 3
+        }
+    },
+    {
+        "title": "Aby w aplikacji Web zaimplementować mechanizm gromadzenia na komputerach użytkowników danych statystycznych, można zastosować",
+        "answers": {
+            "1": "buforowanie",
+            "2": "ciasteczka",
+            "3": "sesje",
+            "4": "formularze"
+        },
+        "correctAnswers": {
+            "text": "ciasteczka",
+            "number": 2
+        }
+    },
+    {
+        "title": "Frameworkiem umożliwiającym programowanie aplikacji desktopowych jest",
+        "answers": {
+            "1": "WPF",
+            "2": "Symfony",
+            "3": "Xamarin",
+            "4": "Angular"
+        },
+        "correctAnswers": {
+            "text": "WPF",
+            "number": 1
+        }
+    },
+    {
+        "title": "Z której kolekcji należy skorzystać, aby przechowywać dane związane z elementem interfejsu użytkownika tak, aby element był ten informowany przez kolekcję o dodaniu, usunięciu lub zmianie jej elementu",
+        "answers": {
+            "1": "ObservableCollection",
+            "2": "KeyedCollection",
+            "3": "Collection",
+            "4": "ReadOnlyCollection"
+        },
+        "correctAnswers": {
+            "text": "ObservableCollection",
+            "number": 1
+        }
+    },
+    {
+        "title": "Pierwszym etapem tworzenia aplikacji jest",
+        "answers": {
+            "1": "utworzenie przypadków testowych",
+            "2": "projekt architektury systemu",
+            "3": "dobór zestawu typów i zmiennych dla aplikacji",
+            "4": "analiza wymagań klienta"
+        },
+        "correctAnswers": {
+            "text": "analiza wymagań klienta",
+            "number": 4
+        }
+    },
+    {
+        "title": "W przedstawionym filmie ukazano kreator interfejsu użytkownika, dla którego automatycznie powstaje",
+        "answers": {
+            "1": "kod Java",
+            "2": "obsługa wciśniętego przycisku",
+            "3": "kod XML",
+            "4": "obsługa przycisku ekranu dotykowego"
+        },
+        "correctAnswers": {
+            "text": "kod XML",
+            "number": 3
+        }
+    },
+    {
+        "title": "Dziedziczenie jest stosowane, gdy istnieje potrzeba",
+        "answers": {
+            "1": "asynchronicznej obsługi długotrwałych operacji",
+            "2": "definicji klasy bardziej specjalistycznej niż już zdefiniowana",
+            "3": "stosowania wartości stałych, niezmiennych przez czas trwania aplikacji",
+            "4": "zdefiniowania zakresu widzialności metod i pól jednej klasy"
+        },
+        "correctAnswers": {
+            "text": "definicji klasy bardziej specjalistycznej niż już zdefiniowana",
+            "number": 2
+        }
+    },
+    {
+        "title": "Wskaż frazę, która w języku angielskim oznacza \"testy wydajnościowe\"",
+        "answers": {
+            "1": "unit testing",
+            "2": "performance testing",
+            "3": "integration testing",
+            "4": "security testing"
+        },
+        "correctAnswers": {
+            "text": "performance testing",
+            "number": 2
+        }
+    },
+    {
+        "title": "Teoria ustalania celów opisuje właściwie określony cel jako SMART, od pierwszych liter słów: specyficzny, Mierzalny, Ambitny, Realny i Terminowy. Wskaż cel, którego osiągnięcie wymaga wysiłku i stanowi wyzwanie dla pracownika",
+        "answers": {
+            "1": "Mierzalny",
+            "2": "Ambitny",
+            "3": "Terminowy",
+            "4": "Specyficzny"
+        },
+        "correctAnswers": {
+            "text": "Ambitny",
+            "number": 2
+        }
+    },
+    {
+        "title": "Wskaż przykład wypadku przy pracy",
+        "answers": {
+            "1": "oparzenie ręki, które nastąpiło w czasie nieobowiązkowego doszkalania w czasie wolnym pracownika",
+            "2": "złe samopoczucie wywołane przewlekła chorobą pracownika, które nastąpiło w miejscu pracy",
+            "3": "uraz stawu skokowego, który nastąpił podczas bezpośredniej drogi do pracy",
+            "4": "złamanie nogi podczas urlopu wypoczynkowego udzielonego przez pracodawcę"
+        },
+        "correctAnswers": {
+            "text": "uraz stawu skokowego, który nastąpił podczas bezpośredniej drogi do pracy",
+            "number": 3
+        }
+    },
+    {
+        "title": "Aby zaimplementować w aplikacji jednokierunkową funkcję skrótu tzw. funkcję haszującą można posłużyć się algorytmem",
+        "answers": {
+            "1": "DES",
+            "2": "RSA",
+            "3": "AES",
+            "4": "MD"
+        },
+        "correctAnswers": {
+            "text": "MD",
+            "number": 4
+        }
+    },
+    {
+        "title": "Liczba A4 zapisana systemem heksadecymalnym ma postać binarną",
+        "answers": {
+            "1": "100",
+            "2": "0100",
+            "3": "0010",
+            "4": "100"
+        },
+        "correctAnswers": {
+            "text": "0100",
+            "number": 2
+        }
+    },
+    {
+        "title": "Klasa w programowaniu obiektowym to",
+        "answers": {
+            "1": "zmienna",
+            "2": "wskaźnik",
+            "3": "instrukcja",
+            "4": "typ danych"
+        },
+        "correctAnswers": {
+            "text": "typ danych",
+            "number": 4
+        }
+    },
+    {
+        "title": "W programie napisanym w języku C++ należy utworzyć zmienną, która przechowa liczbę rzeczywistą. Określ typ tej zmiennej",
+        "answers": {
+            "1": "int",
+            "2": "double",
+            "3": "number",
+            "4": "numeric"
+        },
+        "correctAnswers": {
+            "text": "double",
+            "number": 2
+        }
+    },
+    {
+        "title": "Które narzędzie programistyczne służy do tłumaczenia kodu źródłowego do postaci zrozumiałej dla komputera, sprawdza wszystkie instrukcje kodu, czy nie występują w nich błędy, a następnie tworzy wykonywalny moduł?",
+        "answers": {
+            "1": "interpreter",
+            "2": "kompilator",
+            "3": "debugger",
+            "4": "dekompilator"
+        },
+        "correctAnswers": {
+            "text": "kompilator",
+            "number": 2
+        }
+    },
+    {
+        "title": "Pracując w grupie i dbając o jej poprawne funkcjonowanie, nie należy",
+        "answers": {
+            "1": "wzajemnie się motywować",
+            "2": "rzetelnie i na czas wywiązywać się ze swoich zobowiązań",
+            "3": "dbać wyłącznie o własny interes",
+            "4": "brać odpowiedzialność za podejmowane działania"
+        },
+        "correctAnswers": {
+            "text": "dbać wyłącznie o własny interes",
+            "number": 3
+        }
+    },
+    {
+        "title": "Programy działające w systemach Android wykorzystują do interakcji z użytkownikiem klasę",
+        "answers": {
+            "1": "Activity",
+            "2": "Screens",
+            "3": "Fragments",
+            "4": "Windows"
+        },
+        "correctAnswers": {
+            "text": "Activity",
+            "number": 1
+        }
+    },
+    {
+        "title": "Do form przekazu werbalnego należy",
+        "answers": {
+            "1": "mówienie",
+            "2": "wyraz twarzy",
+            "3": "pozycja ciała",
+            "4": "gestykulacja"
+        },
+        "correctAnswers": {
+            "text": "mówienie",
+            "number": 1
+        }
+    },
+    {
+        "title": "Framework Angular został napisany w języku",
+        "answers": {
+            "1": "Postscript",
+            "2": "PHP",
+            "3": "Typescript",
+            "4": "C#"
+        },
+        "correctAnswers": {
+            "text": "Typescript",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jedną z możliwości testów funkcjonalnych wykonywanych na aplikacji webowej jest sprawdzenie",
+        "answers": {
+            "1": "bezpieczeństwa aplikacji",
+            "2": "stopnia optymalizacji kodu aplikacji",
+            "3": "wydajności aplikacji",
+            "4": "poprawności wyświetlanych elementów aplikacji"
+        },
+        "correctAnswers": {
+            "text": "poprawności wyświetlanych elementów aplikacji",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jaki kwalifikator należy nadać metodzie, aby dostęp do niej był możliwy tylko z ciała tej klasy i klas potomnych,a jednocześnie, żeby ta metoda nie była dostępna w dowolnej funkcji?",
+        "answers": {
+            "1": "public",
+            "2": "private",
+            "3": "reinterpret_cast",
+            "4": "protected"
+        },
+        "correctAnswers": {
+            "text": "protected",
+            "number": 4
+        }
+    },
+    {
+        "title": "Szkodliwe oprogramowanie, zaprojektowane w celu zapewnienia hakerom uprawnień administracyjnych do komputera ofiary bez jej wiedzy, to",
+        "answers": {
+            "1": "wirus",
+            "2": "keylogger",
+            "3": "robak",
+            "4": "rootkit"
+        },
+        "correctAnswers": {
+            "text": "rootkit",
+            "number": 4
+        }
+    },
+    {
+        "title": "W języku Java wyjątek ArrayIndexOutOfBoundsException może pojawić się w sytuacji odwołania się do elementu tablicy, którego",
+        "answers": {
+            "1": "wartość jest większa niż rozmiar tablicy",
+            "2": "indeks jest równy lub większy od rozmiaru tablicy",
+            "3": "indeks jest z przedziału od 0 do n-1, gdzie n jest rozmiarem tablicy",
+            "4": "wartość jest większa niż jego indeks"
+        },
+        "correctAnswers": {
+            "text": "indeks jest równy lub większy od rozmiaru tablicy",
+            "number": 2
+        }
+    },
+    {
+        "title": "Resuscytacja krążeniowo-oddechowa polega na wykonywaniu",
+        "answers": {
+            "1": " uciśnięć klatki piersiowej i 5 oddechów ratowniczych",
+            "2": " uciśnięć klatki piersiowej i 3 oddechów ratowniczych",
+            "3": " uciśnięć klatki piersiowej i 2 oddechów ratowniczych",
+            "4": " uciśnięć klatki piersiowej i 1 oddechu ratowniczego"
+        },
+        "correctAnswers": {
+            "text": " uciśnięć klatki piersiowej i 2 oddechów ratowniczych",
+            "number": 3
+        }
+    },
+    {
+        "title": "Przedstawiony na filmie kod napisany w języku C++ nie kompiluje się. Co należy zmienić w tym kodzie, aby proces kompilacji wykonał się bez błędów?",
+        "answers": {
+            "1": "dodać deklarację funkcji sprawdz przed funkcją main",
+            "2": "zapisać poprawnie warunek w instrukcji if w linii 11, np. sprawdz(x)==true",
+            "3": "poprawić błąd w funkcji sprawdz, polegający na braku nawiasów {} w pętli for",
+            "4": "zadeklarować zmienną sprawdz przed jej użyciem w linii 11"
+        },
+        "correctAnswers": {
+            "text": "dodać deklarację funkcji sprawdz przed funkcją main",
+            "number": 1
+        }
+    },
+    {
+        "title": "Która metoda biblioteki jQuery języka JavaScript odpowiada za naprzemienne dodawanie i usuwanie klasy elementu?",
+        "answers": {
+            "1": "toggleClass()",
+            "2": "switchClass()",
+            "3": "changeClass()",
+            "4": "bingClass()"
+        },
+        "correctAnswers": {
+            "text": "toggleClass()",
+            "number": 1
+        }
+    },
+    {
+        "title": "Framework to",
+        "answers": {
+            "1": "platforma programistyczna dostarczająca pewne komponenty i narzucająca pewien szkielet lub metodykę tworzenia aplikacji",
+            "2": "zbiór podprogramów, danych i złożonych typów danych wykorzystywanych w kodzie źródłowym aplikacji",
+            "3": "oprogramowanie, które metodą drag and drop umożliwia utworzenie interfejsu aplikacji",
+            "4": "narzędzie służące do tworzenia, modyfikowania, testowania i uruchamiania oprogramowania"
+        },
+        "correctAnswers": {
+            "text": "platforma programistyczna dostarczająca pewne komponenty i narzucająca pewien szkielet lub metodykę tworzenia aplikacji",
+            "number": 1
+        }
+    },
+    {
+        "title": "Diagram Gantta jest stosowany w celu",
+        "answers": {
+            "1": "obrazowania funkcjonalności systemu",
+            "2": "szczegółowej analizy czasowo-kosztowej projektu",
+            "3": "planowania i zarządzania projektem",
+            "4": "wizualizacji zależności między elementami systemów"
+        },
+        "correctAnswers": {
+            "text": "planowania i zarządzania projektem",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jednym z zadań widoku we wzorcu MVVM (Model_View-Viewmodel) jest",
+        "answers": {
+            "1": "obsługa logiki aplikacji - zawiera implementację algorytmów",
+            "2": "obsługa interakcji użytkownika, utworzenie interfejsu użytkownika",
+            "3": "udostępnianie danych dla widoku oraz wymiana danych z modelem",
+            "4": "przechowywanie pobranych oraz przetworzonych danych"
+        },
+        "correctAnswers": {
+            "text": "obsługa interakcji użytkownika, utworzenie interfejsu użytkownika",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jednostką zalecaną przy tworzeniu układu interfejsu aplikacji jest",
+        "answers": {
+            "1": "mm",
+            "2": "px",
+            "3": "dp",
+            "4": "pt"
+        },
+        "correctAnswers": {
+            "text": "dp",
+            "number": 3
+        }
+    },
+    {
+        "title": "Frameworki/biblioteki typowe dla aplikacji webowych to",
+        "answers": {
+            "1": "ASPNET Core, jQuery, Joomla!, Wordpress, Angular",
+            "2": "jquery, Joomla!, Wordpress, android Studio, Xamarin",
+            "3": "ASPNET Core, Django, Angular, React.js, Node.js",
+            "4": "Visual Studio, Eclipse, angular, React.js, Node.js"
+        },
+        "correctAnswers": {
+            "text": "ASPNET Core, Django, Angular, React.js, Node.js",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jak zaimportować tylko komponent z biblioteki React?",
+        "answers": {
+            "1": "import React.Component from 'react'",
+            "2": "import [ Component ] from 'react'",
+            "3": "import Component from 'react'",
+            "4": "import { Component } from 'react'"
+        },
+        "correctAnswers": {
+            "text": "import { Component } from 'react'",
+            "number": 4
+        }
+    },
+    {
+        "title": "Aby zastosować framework Django należy programować w języku",
+        "answers": {
+            "1": "C#",
+            "2": "JavaScript",
+            "3": "Python",
+            "4": "Java"
+        },
+        "correctAnswers": {
+            "text": "Python",
+            "number": 3
+        }
+    },
+    {
+        "title": "Aby programować aplikacje desktopowe za pomocą języka Java można wybrać środowisko",
+        "answers": {
+            "1": "NetBeans",
+            "2": "SharpDevelop",
+            "3": "PyCharm",
+            "4": "Ms Visual Studio"
+        },
+        "correctAnswers": {
+            "text": "NetBeans",
+            "number": 1
+        }
+    },
+    {
+        "title": "Ryzykiem zawodowym nazywa się",
+        "answers": {
+            "1": "zagrożenie wypadkowe występujące na stanowisku pracy",
+            "2": "skutki zagrożeń wypadkowych wystepujących na stanowisku pracy",
+            "3": "ciężkość następstw niepożądanych zdarzeń związanych z wykonywaną pracą",
+            "4": "prawdopodobieństwo wystąpienia niepożądanych zdarzeń związanych z wykonywaną pracą, powodujących straty, w szczególności wystąpienia u pracowników niekorzystnych skutków zdrowotnych"
+        },
+        "correctAnswers": {
+            "text": "prawdopodobieństwo wystąpienia niepożądanych zdarzeń związanych z wykonywaną pracą, powodujących straty, w szczególności wystąpienia u pracowników niekorzystnych skutków zdrowotnych",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który system operacyjny jest natywnym systemem do tworzenia aplikacji mobilnych w języku Swift?",
+        "answers": {
+            "1": "iOS",
+            "2": "LG UX",
+            "3": "Android",
+            "4": "Windows UWP"
+        },
+        "correctAnswers": {
+            "text": "iOS",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które wyrażenie logiczne należy zastosować, aby sprawdzić czy zmienna x przechowuje wartości ujemne albo z przedziału (10, 100)",
+        "answers": {
+            "1": "x > 10 || x < 100 || x < 0",
+            "2": "(x > 10 && x < 100) || x < 0",
+            "3": "x > 10 || x < 100 || x < 0",
+            "4": "(x > 10 || x < 100) && x < 0"
+        },
+        "correctAnswers": {
+            "text": "(x > 10 && x < 100) || x < 0",
+            "number": 2
+        }
+    },
+    {
+        "title": "Odpowiednikami zmiennych i funkcji programowania strukturalnego są w programowaniu obiektowym",
+        "answers": {
+            "1": "pola i metody",
+            "2": "metody statyczne i abstrakcyjne",
+            "3": "hermetyzacja i dziedziczenia",
+            "4": "pola i kwalifikatory dostępu"
+        },
+        "correctAnswers": {
+            "text": "pola i metody",
+            "number": 1
+        }
+    },
+    {
+        "title": "Środowiskiem dedykowanym do tworzenia aplikacji mobilnych dla urządzeń Apple i wykorzystującym do tego celu różne języki programowania w tym Java i Objective C jest",
+        "answers": {
+            "1": "Android Studio",
+            "2": "NetBeans",
+            "3": "XCode",
+            "4": "React Native"
+        },
+        "correctAnswers": {
+            "text": "XCode",
+            "number": 3
+        }
+    },
+    {
+        "title": "Systemem kontroli wersji jest",
+        "answers": {
+            "1": "Trello",
+            "2": "Jira",
+            "3": "Git",
+            "4": "Bugzilla"
+        },
+        "correctAnswers": {
+            "text": "Git",
+            "number": 3
+        }
+    },
+    {
+        "title": "Sumą liczb binarnych 1101 i 1001 jest",
+        "answers": {
+            "1": "",
+            "2": "1",
+            "3": "",
+            "4": "0"
+        },
+        "correctAnswers": {
+            "text": "0",
+            "number": 4
+        }
+    },
+    {
+        "title": "Wskaż cechę charakterystyczną dla metody abstrakcyjnej",
+        "answers": {
+            "1": "jest zawsze prywatna",
+            "2": "jest pusta w klasach potomnych",
+            "3": "nie jest zaimplementowana w klasie bazowej",
+            "4": "jest pusta w klasie bazowej"
+        },
+        "correctAnswers": {
+            "text": "nie jest zaimplementowana w klasie bazowej",
+            "number": 3
+        }
+    },
+    {
+        "title": "Błędy interpretracji kodu wytworzonego za pomocą środowiska React.js lub Angular można śledzić przy pomocy",
+        "answers": {
+            "1": "wbudowanego w środowisko debuggera",
+            "2": "konsoli przeglądarki internetowej",
+            "3": "narzędzi zainstalowanych po stronie serwera aplikacji",
+            "4": "kompilatora języka JavaScript"
+        },
+        "correctAnswers": {
+            "text": "konsoli przeglądarki internetowej",
+            "number": 2
+        }
+    },
+    {
+        "title": "W standardzie dokumentacji testów oprogramowania IEEE 829-1998 jest opisany dokument, który zawiera informacje o tym, które przypadki testowania zostały użyte, kto je użył i czy powiodły się. Jest to",
+        "answers": {
+            "1": "Test Plan",
+            "2": "Test Procedure Specification",
+            "3": "Test Log",
+            "4": "Test Summary Report"
+        },
+        "correctAnswers": {
+            "text": "Test Log",
+            "number": 3
+        }
+    },
+    {
+        "title": "Klasie o nazwie samochod nadano cechy: marka, rocznik, parametry[]. Cechy te należy zdefiniować jako",
+        "answers": {
+            "1": "funckje",
+            "2": "pola",
+            "3": "interfejsy",
+            "4": "metody"
+        },
+        "correctAnswers": {
+            "text": "pola",
+            "number": 2
+        }
+    },
+    {
+        "title": "Błąd kompilacji \"incompatible types\" może zostać wygenerowany, gdy",
+        "answers": {
+            "1": "funkcja przyjmuje jako argument całkowitą, a wywołana została z napisem jako parametr",
+            "2": "popełniono błąd podczas deklaracji zmiennej, zastosowano typ, który nie istnieje",
+            "3": "zmiennej typu int została przypisana wartość 243",
+            "4": "funkcja zwraca typ void, a podczas wywołania nie jest przypisana do żadnej zmiennej"
+        },
+        "correctAnswers": {
+            "text": "funkcja przyjmuje jako argument całkowitą, a wywołana została z napisem jako parametr",
+            "number": 1
+        }
+    },
+    {
+        "title": "Programista aplikacji mobilnych chce przekwalifikować się na pracownika Full-Stack Developer. Wskaż kurs, który powinien wybrać, aby było to możliwe",
+        "answers": {
+            "1": "Mastering Cross-platform Developping",
+            "2": "Ultimate C# Serier from Beginner to Advanced",
+            "3": "Complete JavaScript React, SQL, Node.js Cource",
+            "4": "Raster and Vector Graphics with Adobe"
+        },
+        "correctAnswers": {
+            "text": "Complete JavaScript React, SQL, Node.js Cource",
+            "number": 3
+        }
+    },
+    {
+        "title": "Oznaczeniem komentarza wieloliniowego w języku Java jest",
+        "answers": {
+            "1": "/* .. */",
+            "2": "<!-- ... -->",
+            "3": "// .. //",
+            "4": "\"\"\" ... \"\"\""
+        },
+        "correctAnswers": {
+            "text": "/* .. */",
+            "number": 1
+        }
+    },
+    {
+        "title": "Wskaż numeryczne typy stałoprzecinkowe",
+        "answers": {
+            "1": "float, double",
+            "2": "int, short, long",
+            "3": "bool char, string",
+            "4": "long long, long double"
+        },
+        "correctAnswers": {
+            "text": "int, short, long",
+            "number": 2
+        }
+    },
+    {
+        "title": "W którym języku programowania kod źródłowy programu, przed jego uruchomieniem, musi być skompilowany do kodu maszynowego konkretnej architektury procesora?",
+        "answers": {
+            "1": "PHP",
+            "2": "Perl",
+            "3": "Java",
+            "4": "C++"
+        },
+        "correctAnswers": {
+            "text": "C++",
+            "number": 4
+        }
+    },
+    {
+        "title": "Projektując aplikację zorientowaną obiektowo należy założyć, że program będzie sterowany za pomocą",
+        "answers": {
+            "1": "modułów z zawartymi w nich funkcjami i zmiennymi globalnymi",
+            "2": "pętli dyspozytora, która w zależności od zdarzenia wywoła odpowiednią funkcję",
+            "3": "definicji warunków końcowego rozwiązania",
+            "4": "zbioru instancji klas współpracujących ze sobą"
+        },
+        "correctAnswers": {
+            "text": "zbioru instancji klas współpracujących ze sobą",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które stwierdzenie dotyczące pojęcia obiekt jest prawdziwe?",
+        "answers": {
+            "1": "obiekt jest typem złożonym",
+            "2": "obiekt jest instancją klasy",
+            "3": "obiekt i klasa są tożsame",
+            "4": "obiekt umożliwia zdefiniowanie klasy"
+        },
+        "correctAnswers": {
+            "text": "obiekt jest instancją klasy",
+            "number": 2
+        }
+    },
+    {
+        "title": "Która cecha wyróżnia framework od biblioteki?",
+        "answers": {
+            "1": "Framework determinuje architekturę aplikacji i dostarcza jej szkielet",
+            "2": "Framework dostarcza funkcje użytkowe w danej dziedzinie problemu",
+            "3": "Framework jest zbiorem funkcjonalności, które programista może wykorzystać",
+            "4": "Framework dostarcza API do większego zestawu funkcji"
+        },
+        "correctAnswers": {
+            "text": "Framework determinuje architekturę aplikacji i dostarcza jej szkielet",
+            "number": 1
+        }
+    },
+    {
+        "title": "Narzędziem do monitorowania procesu wykonywania zadań przez członków zespołu projektowego może być diagram",
+        "answers": {
+            "1": "Venna",
+            "2": "Gantta",
+            "3": "związków encji",
+            "4": "aktywności UML"
+        },
+        "correctAnswers": {
+            "text": "Gantta",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jedną z chorób, która występuje u programistów na skutek długotrwałej pracy z myszą komputerową lub klawiaturą, chrakteryzującą się bólami, drętwieniem i zaburzeniami czucia w obszarze 1-3 palca ręki jest",
+        "answers": {
+            "1": "zespół cieśni kanału nadgarstka",
+            "2": "zespół suchego oka",
+            "3": "kifoza",
+            "4": "dyskopatia"
+        },
+        "correctAnswers": {
+            "text": "zespół cieśni kanału nadgarstka",
+            "number": 1
+        }
+    },
+    {
+        "title": "Aby zadeklarować pole, które będzie pełniło funkcję licznika instancji klasy, należy definicję takiego pola poprzedzić słowem kluczowym",
+        "answers": {
+            "1": "register",
+            "2": "static",
+            "3": "operator",
+            "4": "virtual"
+        },
+        "correctAnswers": {
+            "text": "static",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jeżeli w aplikacji występuje błąd działania, a programista musi sprawdzić wartości przechowywane w zmiennych, w danym momencie uruchomienia aplikacji, to należy do tego celu wykorzystać",
+        "answers": {
+            "1": "analizator składni",
+            "2": "wirtualną maszynę",
+            "3": "debugger",
+            "4": "interpreter"
+        },
+        "correctAnswers": {
+            "text": "debugger",
+            "number": 3
+        }
+    },
+    {
+        "title": "Która lista typów obejmuje jedynie typy złożone?",
+        "answers": {
+            "1": "class, struct, float",
+            "2": "char, struct, union",
+            "3": "class, struct, union",
+            "4": "unsigned, struct, float"
+        },
+        "correctAnswers": {
+            "text": "class, struct, union",
+            "number": 3
+        }
+    },
+    {
+        "title": "Liczba 1AF zapisana kodem szesnastkowym po przeliczeniu na kod dziesiętny wynosi",
+        "answers": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 1
+        }
+    },
+    {
+        "title": "Zmienna typy logicznego może przyjąć wartości:",
+        "answers": {
+            "1": ", -1",
+            "2": "true, false",
+            "3": " oraz dowolną całkowitą",
+            "4": "trzy dowolne naturalne"
+        },
+        "correctAnswers": {
+            "text": "true, false",
+            "number": 2
+        }
+    },
+    {
+        "title": "W procesorze, jednostką odpowiedzialną za działania na liczbach zmiennoprzecinkowych jest",
+        "answers": {
+            "1": "IU",
+            "2": "FPU",
+            "3": "ALU",
+            "4": "AU"
+        },
+        "correctAnswers": {
+            "text": "FPU",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który z warunków logicznych sprawdza, czy zmienna całkowita x jest dodatnią liczbą dwucyfrową podzielną przez 4?",
+        "answers": {
+            "1": "(x > 9 && x < 100) && (x % 4 == 0)",
+            "2": "(x > 9 || x < 100) && (x / 4 == 0)",
+            "3": "(x > 9 && x < 100) || (x % 4 == 0)",
+            "4": "(x > 0 && x < 100) || (x / 4 == 0)"
+        },
+        "correctAnswers": {
+            "text": "(x > 9 && x < 100) && (x % 4 == 0)",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które określenie najlepiej opisuje złożoność obliczeniową algorytmy quicksort?",
+        "answers": {
+            "1": "jest wyższa niż złożoność sortowania bąbelkowego",
+            "2": "jest zawsze niższa niż złożoność każdego innego algorytmy sortowania",
+            "3": "jest wyższa niż O(n2).",
+            "4": "jest różna w zależności od wyboru elementu rozdzielającego"
+        },
+        "correctAnswers": {
+            "text": "jest różna w zależności od wyboru elementu rozdzielającego",
+            "number": 4
+        }
+    },
+    {
+        "title": "W aplikacji mobilnej, aby zdefiniować warianty grafiki w zależności od rozdzielczości ekranu, należy (uwaga: odpowiedzi wariantowe dla dwóch platform - sugerować się platformą wykorzystywaną na zajęciach)",
+        "answers": {
+            "1": "iOS: dodać do nazw przyrostki wskazujące na rozdzielczość, np.32ppi. Android: umieścić grafikę w odpowiednich folderach: 32ppi, 64ppi, 96ppi.",
+            "2": "iOS: dodać do nazw plików przyrostki @2x, @3x. Android: umieścić grafikę w odpowiednich folderach drawable: -hdpi, -xhpi, xxhdpi.",
+            "3": "iOS: dodać do nazw przyrostki #2x, #3x. Android: dodać do nazw przyrostek rozdzielczości: -32x32, -64x64, -96x96.",
+            "4": "iOS: utworzyć foldery hdpi, lhpi, xhpi i dodać do nich grafiki. Android: utworzyć foldery 32x32, 64x64, 96x96 i dodać do nich grafiki."
+        },
+        "correctAnswers": {
+            "text": "iOS: dodać do nazw plików przyrostki @2x, @3x. Android: umieścić grafikę w odpowiednich folderach drawable: -hdpi, -xhpi, xxhdpi.",
+            "number": 2
+        }
+    },
+    {
+        "title": "Programista projektuje obsługę bufora drukowania dokumentów. Najnowsze zadanie drukowania jest ustawiane na końcu kolejki, najstarsze jest przekazywane do wydruku. Strukturą danych najlepiej pasującą do problemu jest",
+        "answers": {
+            "1": "Stos",
+            "2": "Sterta",
+            "3": "LIFO",
+            "4": "FIFO"
+        },
+        "correctAnswers": {
+            "text": "FIFO",
+            "number": 4
+        }
+    },
+    {
+        "title": "Która z akcji powinna być zaimplementowana w części back-end aplikacji internetowej?",
+        "answers": {
+            "1": "wypisywanie danych pobranych z formularza w przeglądarce",
+            "2": "obsługa zdarzeń kontrolek",
+            "3": "walidacja formularzy w czasie rzeczywistym",
+            "4": "obsługa bazy danych"
+        },
+        "correctAnswers": {
+            "text": "obsługa bazy danych",
+            "number": 4
+        }
+    },
+    {
+        "title": "Aby zaimplementować algorytm sortowania bąbelkowego dla tablicy n-elementowej, potrzeba",
+        "answers": {
+            "1": "n-liczby warunków",
+            "2": "dwóch pętli działających na co najmniej (n+1) elementach każda",
+            "3": "jednej pętli działającej na 2n elementach i warunku",
+            "4": "dwóch pętli działających na najwyżej n-elementach każda"
+        },
+        "correctAnswers": {
+            "text": "dwóch pętli działających na najwyżej n-elementach każda",
+            "number": 4
+        }
+    },
+    {
+        "title": "Testy mające na celu wykrycie błędów w interfejsach pomiędzy modułami lub systemami to testy",
+        "answers": {
+            "1": "wydajnościowe",
+            "2": "bezpieczeństwa",
+            "3": "integracyjne",
+            "4": "jednostkowe"
+        },
+        "correctAnswers": {
+            "text": "integracyjne",
+            "number": 3
+        }
+    },
+    {
+        "title": "Metodyka zwinna (ang. agile) polega na",
+        "answers": {
+            "1": "podziale przedsięwzięcia na następujące po sobie etapy: projekt, programowania, testy, wraz z ciągłym szacowaniem ryzyka przedsięwzięcia",
+            "2": "dekompozycji przedsięwzięcia na części, które są oddzielnie projektowane, wytwarzane i testowane w krótkich cyklach",
+            "3": "zaprojektowaniu całej aplikacji na początku trwania przedsięwzięcia i tworzeniu jej na przemian z testowaniem",
+            "4": "opracowaniu testów dla całego przedsięwzięcia, a następnie implementowaniu kolejnych jego części"
+        },
+        "correctAnswers": {
+            "text": "dekompozycji przedsięwzięcia na części, które są oddzielnie projektowane, wytwarzane i testowane w krótkich cyklach",
+            "number": 2
+        }
+    },
+    {
+        "title": "Mechanizm programowania obiektowego w C++, wykorzystujący funkcje wirtualne (z ang. Virtual), który przy wywołaniu metod zwalnia programistę z obowiązku sprawdzenia jaką klasę pochodną aktualnie obsługuje, np. przez wskaźnik nosi nazwę",
+        "answers": {
+            "1": "dziedziczenia",
+            "2": "przeciążenia",
+            "3": "hermetyzacji",
+            "4": "polimorfizmu"
+        },
+        "correctAnswers": {
+            "text": "polimorfizmu",
+            "number": 4
+        }
+    },
+    {
+        "title": "We frameworkach do tworzenia aplikacji mobilnych lub desktopowych występuje wzorzec MVVM, czyli Model-View-ViewModel. To podejście do programowania zakłada, że",
+        "answers": {
+            "1": "interfejs użytkownika oraz logika aplikacji są kodowane w jednym pliku",
+            "2": "kontrolki i widoki interfejsu użytkownika są zaszyte w logice aplikacji",
+            "3": "interfejs użytkownika oraz logika aplikacji są rozdzielone",
+            "4": "w aplikacji występuje tylko interfejs użytkownika"
+        },
+        "correctAnswers": {
+            "text": "interfejs użytkownika oraz logika aplikacji są rozdzielone",
+            "number": 3
+        }
+    },
+    {
+        "title": "W której sekcji obsługi wyjątków jest zaimplementowana reakcja na rzucony wyjątek?",
+        "answers": {
+            "1": "throw",
+            "2": "try",
+            "3": "finally",
+            "4": "catch"
+        },
+        "correctAnswers": {
+            "text": "catch",
+            "number": 4
+        }
+    },
+    {
+        "title": "Na filmie przedstawiono zakładanie projektu cross-platform. Dla których platform będzie dostępna tworzona aplikacja?",
+        "answers": {
+            "1": "dla Android, iOS oraz Windows (UWP)",
+            "2": "dla android oraz iOS",
+            "3": "dla iOS oraz Windows (UWP)",
+            "4": "dla Android oraz Windows (UWP)"
+        },
+        "correctAnswers": {
+            "text": "dla android oraz iOS",
+            "number": 2
+        }
+    },
+    {
+        "title": "Aby opublikować aplikację w sklepie Google Play/Apple Store, wymagane jest aktywne konto programisty w aplikacji",
+        "answers": {
+            "1": "poczta gmail/poczta Apple ID",
+            "2": "Google Search Console/Apple Store Connect",
+            "3": "Google Analitics/Apple Keynote",
+            "4": "konsola Google Play/iTunes Connect"
+        },
+        "correctAnswers": {
+            "text": "konsola Google Play/iTunes Connect",
+            "number": 4
+        }
+    },
+    {
+        "title": "Program, który analizuje kod źródłowy programu i od razu wykonuje przeanalizowany fragment, jest nazywany",
+        "answers": {
+            "1": "interpreterem",
+            "2": "konsolidatorem",
+            "3": "kompilatorem",
+            "4": "debuggerem"
+        },
+        "correctAnswers": {
+            "text": "interpreterem",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które zdanie dotyczące okna modalnego jest prawdziwe?",
+        "answers": {
+            "1": "Okno modalne może zawierać system menu, ale nie może zawierać w sobie kontrolek.",
+            "2": "Okno modalne oddaje kontrolę innemu oknu, jeżeli to otrzymało zdarzenie.",
+            "3": "Okno modalne pozwala na obsługę wszystkich zdarzeń aplikacji.",
+            "4": "Okno modalne nie pozwala na obsługę zdarzeń dotyczących pozostałych okien aplikacji."
+        },
+        "correctAnswers": {
+            "text": "Okno modalne nie pozwala na obsługę zdarzeń dotyczących pozostałych okien aplikacji.",
+            "number": 4
+        }
+    },
+    {
+        "title": "Typami reprezentującymi liczby rzeczywiste są",
+        "answers": {
+            "1": "float, unsigned",
+            "2": "double, char",
+            "3": "unsigned, long",
+            "4": "float, double"
+        },
+        "correctAnswers": {
+            "text": "float, double",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z frameworków jest stosowany do budowy części back-end w aplikacjach WEB?",
+        "answers": {
+            "1": "Django",
+            "2": "Xamarin",
+            "3": "React.js",
+            "4": "Angular"
+        },
+        "correctAnswers": {
+            "text": "Django",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które z praw autorskich są niezbywalne i nieograniczone w czasie?",
+        "answers": {
+            "1": "Prawa do dokumentów urzędowych.",
+            "2": "Autorskie prawa osobiste.",
+            "3": "Autorskie prawa majątkowe.",
+            "4": "Prawa do prostych informacji prasowych."
+        },
+        "correctAnswers": {
+            "text": "Autorskie prawa osobiste.",
+            "number": 2
+        }
+    },
+    {
+        "title": "Wskaż środek ochrony, który nie jest zaliczany do środków ochrony zbiorowej",
+        "answers": {
+            "1": "ekran dźwiękochłonny",
+            "2": "gaśnica",
+            "3": "barierki chroniące przed upadkiem z wysokości",
+            "4": "okulary ochronne"
+        },
+        "correctAnswers": {
+            "text": "okulary ochronne",
+            "number": 4
+        }
+    },
+    {
+        "title": "Wskaż cechę charakterystyczną szablonów programowania obiektowego",
+        "answers": {
+            "1": "odnoszą się tylko do typów liczbowych",
+            "2": "zawierają informacje o formatowaniu stron internetowych",
+            "3": "definiują funkcjonalność uniwersalną dla różnych typów danych",
+            "4": "operują na danych jednego określonego typu"
+        },
+        "correctAnswers": {
+            "text": "definiują funkcjonalność uniwersalną dla różnych typów danych",
+            "number": 3
+        }
+    },
+    {
+        "title": "Wskaż system typu e-commerce",
+        "answers": {
+            "1": "WordPress CMS bez dodatkowych wtyczek",
+            "2": "Dziennik elektroniczny Librus Synergia",
+            "3": "PrestaShop, platforma do tworzenia własnych sklepów internetowych",
+            "4": "Elektroniczna Platforma Usług Administracji Publicznej ePUAP"
+        },
+        "correctAnswers": {
+            "text": "PrestaShop, platforma do tworzenia własnych sklepów internetowych",
+            "number": 3
+        }
+    },
+    {
+        "title": "Wskaż język programowania, w którym można utworzyć aplikację mobilną dla systemu Android",
+        "answers": {
+            "1": "Java",
+            "2": "C++",
+            "3": "Obiective-C",
+            "4": "Swift"
+        },
+        "correctAnswers": {
+            "text": "Java",
+            "number": 1
+        }
+    },
+    {
+        "title": "Zmienna typu logicznego może przyjąć wartości",
+        "answers": {
+            "1": "true, false",
+            "2": ", -1",
+            "3": " oraz dowolną liczbę całkowitą",
+            "4": "dowolne naturalne liczby"
+        },
+        "correctAnswers": {
+            "text": "true, false",
+            "number": 1
+        }
+    },
+    {
+        "title": "Cechą dobrego negocjatora jest",
+        "answers": {
+            "1": "zarozumiałość",
+            "2": "egoizm",
+            "3": "opanowanie",
+            "4": "niepewność"
+        },
+        "correctAnswers": {
+            "text": "opanowanie",
+            "number": 3
+        }
+    },
+    {
+        "title": "Które działanie dotyczące klasy abstrakcyjnej jest zabronione?",
+        "answers": {
+            "1": "Powołanie instancji tej klasy",
+            "2": "Deklaracja pól publicznych",
+            "3": "Deklaracja metody wirtualnej",
+            "4": "Dziedziczenie po tej klasie"
+        },
+        "correctAnswers": {
+            "text": "Powołanie instancji tej klasy",
+            "number": 1
+        }
+    },
+    {
+        "title": "Do rozwiązywania problemów przybliżonych lub takich, których nie można opisać algorytmem dokładnym, np. przewidywanie pogody, rozpoznawanie wirusów komputerowych służą algorytmy",
+        "answers": {
+            "1": "liniowe",
+            "2": "iteracyjne",
+            "3": "heurystyczne",
+            "4": "rekurencyjne"
+        },
+        "correctAnswers": {
+            "text": "heurystyczne",
+            "number": 3
+        }
+    },
+    {
+        "title": "Algorytm sekwencyjnego wyszukiwania elementu z wartownikiem polega na założeniu, że",
+        "answers": {
+            "1": "na końcu przeszukiwanego zbioru należy wstawić wartownika.",
+            "2": "zbiór wejściowy musi być posortowany.",
+            "3": "zbiór jest zawsze 100 elementowy.",
+            "4": "szukany element musi powtórzyć się kilkakrotnie w zbiorze."
+        },
+        "correctAnswers": {
+            "text": "na końcu przeszukiwanego zbioru należy wstawić wartownika.",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jednym z zadań projektowania aplikacji jest funkcjonalność cofnięcia wykonywanych ostatnio czynności do 20 operacji wstecz (undo). Strukturą danych przeznaczoną do tego typu zadania, którą cechuje dostęp jedynie do ostatniego dodanego elementu jest",
+        "answers": {
+            "1": "kolejka",
+            "2": "drzewo",
+            "3": "tablica",
+            "4": "stos"
+        },
+        "correctAnswers": {
+            "text": "stos",
+            "number": 4
+        }
+    },
+    {
+        "title": "Wskaż odpowiedź, która wykorzystuje parafrazę jako technikę aktywnego słuchania, w sytuacji, gdy klient mówi: \"Interesuje mnie aplikacja, która działa szybko, nie zależnie od tego, czy korzysta z niej kilku czy tysiąc użytkowników\".",
+        "answers": {
+            "1": "Dlaczego Pani poszukuje takiej aplikacji?",
+            "2": "Ilu dokładnie użytkowników będzie z niej korzystać?",
+            "3": "Wyczuwam niepewność w Pani głosie. Proszę pozwolić mi zadać kilka pytań.",
+            "4": "Jeśli prawidłowo zrozumiałem, chodzi o aplikację, która dobrze się skaluje do obciążenia"
+        },
+        "correctAnswers": {
+            "text": "Jeśli prawidłowo zrozumiałem, chodzi o aplikację, która dobrze się skaluje do obciążenia",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które z wymienionych zadań, składających się na proces tworzenia prostej galerii zdjęć będącej aplikacją mobilną, jest zadaniem zespołowym?",
+        "answers": {
+            "1": "Implementacja funkcji dodajZdjecie()",
+            "2": "Utworzenie dokumentacji kodu aplikacji",
+            "3": "Przygotowanie i skonfigurowanie repozytorium dla projektu",
+            "4": "Utworzenie testu jednostkowego dla funkcji przegladajZdjecia()"
+        },
+        "correctAnswers": {
+            "text": "Utworzenie dokumentacji kodu aplikacji",
+            "number": 2
+        }
+    },
+    {
+        "title": "Prawidłową i ergonomiczną pozycję pracy przy komputerze zapewni krzesło, którego",
+        "answers": {
+            "1": "podłokietniki są 20 cm niżej niż blat",
+            "2": "podłokietniki są 30 cm wyżej niż blat",
+            "3": "oparcie zapewnia lordozę w odcinku lędźwiowym",
+            "4": "oparcie w odcinku szyi jest pochylone do przodu o 40 stopni"
+        },
+        "correctAnswers": {
+            "text": "oparcie zapewnia lordozę w odcinku lędźwiowym",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jaki typ służy do przechowywania wartości TRUE/FALSE w języku C++?",
+        "answers": {
+            "1": "bool",
+            "2": "decimal",
+            "3": "byte",
+            "4": "char"
+        },
+        "correctAnswers": {
+            "text": "bool",
+            "number": 1
+        }
+    },
+    {
+        "title": "Natężenie dźwięku na stanowisku pracy w biurze nie może przekraczać",
+        "answers": {
+            "1": " dB",
+            "2": " dB",
+            "3": " dB",
+            "4": " dB"
+        },
+        "correctAnswers": {
+            "text": " dB",
+            "number": 2
+        }
+    },
+    {
+        "title": "Mechanizm pozwalający programowi czytać informacje o samym sobie to",
+        "answers": {
+            "1": "asemblacja",
+            "2": "lustro",
+            "3": "instacjonowanie",
+            "4": "refleksja"
+        },
+        "correctAnswers": {
+            "text": "refleksja",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jaki typ służy do przechowywania wartości całkowitych z zakresu 0 do 255 w języku C++?",
+        "answers": {
+            "1": "unsigned char",
+            "2": "char",
+            "3": "unsigned short",
+            "4": "short"
+        },
+        "correctAnswers": {
+            "text": "unsigned char",
+            "number": 1
+        }
+    },
+    {
+        "title": "Metoda ustawiająca prywatne pole to",
+        "answers": {
+            "1": "metoda abstrakcyjna",
+            "2": "getter",
+            "3": "setter",
+            "4": "metoda wirtualna"
+        },
+        "correctAnswers": {
+            "text": "setter",
+            "number": 3
+        }
+    },
+    {
+        "title": "W języku C# delegat jest to",
+        "answers": {
+            "1": "specjalny typ do przechowywania typów prostych",
+            "2": "specjalny typ do przechowywania referencji na funkcję",
+            "3": "specjalny typ pełniący rolę wskaźnika do poruszania się po pliku",
+            "4": "specjalny typ pełniący rolę iteratora po kolekcji"
+        },
+        "correctAnswers": {
+            "text": "specjalny typ do przechowywania referencji na funkcję",
+            "number": 2
+        }
+    },
+    {
+        "title": "Do testowania REST API wykorzystuje się program",
+        "answers": {
+            "1": "Postman",
+            "2": "ApiViewer",
+            "3": "Putty",
+            "4": "RestTeamViewer"
+        },
+        "correctAnswers": {
+            "text": "Postman",
+            "number": 1
+        }
+    },
+    {
+        "title": "W języku C, aby wypisać odpowiednio string, znak, liczbę całkowitą ze znakiem oraz liczbę zmiennoprzecinkową za pomocą funkcji print(), należy posłużyć się ciągiem formatującym",
+        "answers": {
+            "1": "%s %c %d %f",
+            "2": "%c %s %u %x",
+            "3": "%f %c %s %u",
+            "4": "%d %u %f %c"
+        },
+        "correctAnswers": {
+            "text": "%s %c %d %f",
+            "number": 1
+        }
+    },
+    {
+        "title": "Elementem języka C++, który pozwala definiować własne typy jest?",
+        "answers": {
+            "1": "typ wyliczeniowy enum",
+            "2": "klasa",
+            "3": "struktura",
+            "4": "wszystkie pozostałe"
+        },
+        "correctAnswers": {
+            "text": "wszystkie pozostałe",
+            "number": 4
+        }
+    },
+    {
+        "title": "Wartość wyrażenia !5 w języku C++ to",
+        "answers": {
+            "1": "",
+            "2": "undefined",
+            "3": "false",
+            "4": "xE"
+        },
+        "correctAnswers": {
+            "text": "false",
+            "number": 3
+        }
+    },
+    {
+        "title": "Przykładem algorytmu typu dziel i zwyciężaj jest?",
+        "answers": {
+            "1": "quick-sort",
+            "2": "algorytm kruskala",
+            "3": "algorytm Dijkstra",
+            "4": "insert-sort"
+        },
+        "correctAnswers": {
+            "text": "quick-sort",
+            "number": 1
+        }
+    },
+    {
+        "title": "Przedstawiając algorytm za pomocą bloków, blok start/stop narysujemy w kształcie?",
+        "answers": {
+            "1": "Równoległoboku.",
+            "2": "Elipsy.",
+            "3": "Trójkąta.",
+            "4": "Prostokąta."
+        },
+        "correctAnswers": {
+            "text": "Elipsy.",
+            "number": 2
+        }
+    },
+    {
+        "title": "Algorytm można przedstawić za pomocą?",
+        "answers": {
+            "1": "Pseudokodem.",
+            "2": "Każdym z wymienionych sposobów.",
+            "3": "Schematem blokowym.",
+            "4": "Opisem słownym."
+        },
+        "correctAnswers": {
+            "text": "Każdym z wymienionych sposobów.",
+            "number": 2
+        }
+    },
+    {
+        "title": "Z ilu klas może dziedziczyć klasa w C#/Java/Python?",
+        "answers": {
+            "1": "",
+            "2": "dowolnej ilości",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 1
+        }
+    },
+    {
+        "title": "Przekazywanie zależności do klasy poprzez konstruktor nazywane jest",
+        "answers": {
+            "1": "wstrzykiwaniem zależności",
+            "2": "żadnym z wymienionych",
+            "3": "dziedziczeniem zależności",
+            "4": "odwracaniem zależności"
+        },
+        "correctAnswers": {
+            "text": "wstrzykiwaniem zależności",
+            "number": 1
+        }
+    },
+    {
+        "title": "Interfejs to konstrukcja znana np. z język C#. Jest ona podobna do",
+        "answers": {
+            "1": "klasy abstrakcyjnej",
+            "2": "zwykłej klasy",
+            "3": "struktury",
+            "4": "uni"
+        },
+        "correctAnswers": {
+            "text": "klasy abstrakcyjnej",
+            "number": 1
+        }
+    },
+    {
+        "title": "Plik źródłowy języka C# ma rozszerzenie?",
+        "answers": {
+            "1": "sc",
+            "2": "cc",
+            "3": "cs",
+            "4": "cp"
+        },
+        "correctAnswers": {
+            "text": "cs",
+            "number": 3
+        }
+    },
+    {
+        "title": "Pojęcie tablicy postrzępionej w języku C#, oznacza:",
+        "answers": {
+            "1": "każdą tablicę w języku C#, niezależnie od jej wymiaru",
+            "2": "tablicę dwuwymiarową, gdzie każda podtablica jest równa",
+            "3": "tablicę dwuwymiarową, gdzie każda podtablica ma nieparzystą ilość elementów",
+            "4": "tablicę dwuwymiarową, gdzie każda podtablica jest innego rozmiaru"
+        },
+        "correctAnswers": {
+            "text": "tablicę dwuwymiarową, gdzie każda podtablica jest innego rozmiaru",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które zdanie o funkcji skrótu nie jest prawdziwe?",
+        "answers": {
+            "1": "\"hash\" uzyskany z funkcji skrótu jest odwracalny.",
+            "2": "Wynik funkcji skrótu to tak zwany \"hash\".",
+            "3": "Funkcja skrótu przypisuje dowolnie dużej wartości krótką wartość o stałym rozmiarze.",
+            "4": "\"hash\" uzyskany z funkcji skrótu jest nieodwracalny."
+        },
+        "correctAnswers": {
+            "text": "\"hash\" uzyskany z funkcji skrótu jest odwracalny.",
+            "number": 1
+        }
+    },
+    {
+        "title": "Typem delegata w języku C# nie jest?",
+        "answers": {
+            "1": "Predicate",
+            "2": "Func",
+            "3": "Task",
+            "4": "Action"
+        },
+        "correctAnswers": {
+            "text": "Task",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jakiego przełącznika należy użyć z poleceniem \"git reset\", aby cofnięte zmiany wylądowały na \"stage\"?",
+        "answers": {
+            "1": "--medium",
+            "2": "--hard",
+            "3": "--mixed",
+            "4": "--soft"
+        },
+        "correctAnswers": {
+            "text": "--soft",
+            "number": 4
+        }
+    },
+    {
+        "title": "Testy jednostkowe składają się z trzech głównych faz w kolejności",
+        "answers": {
+            "1": "assert/arrange/act",
+            "2": "assert/act/arrange",
+            "3": "act/assert/arrange",
+            "4": "arrange/act/assert"
+        },
+        "correctAnswers": {
+            "text": "arrange/act/assert",
+            "number": 4
+        }
+    },
+    {
+        "title": "Zasada mówiąca o tym by unikać powtórzeń w kodzie to",
+        "answers": {
+            "1": "YAGNI",
+            "2": "DRY",
+            "3": "SOLID",
+            "4": "KISS"
+        },
+        "correctAnswers": {
+            "text": "DRY",
+            "number": 2
+        }
+    },
+    {
+        "title": "W języku C# delegat \"Func<int, dobule, bool>\", zwraca:",
+        "answers": {
+            "1": "int",
+            "2": "bool",
+            "3": "double",
+            "4": "nic"
+        },
+        "correctAnswers": {
+            "text": "bool",
+            "number": 2
+        }
+    },
+    {
+        "title": "Typem danych wykorzystywanym do precyzyjnego przechowywania liczb ułamkowych w języku C# jest:",
+        "answers": {
+            "1": "double",
+            "2": "dynamic",
+            "3": "decimal",
+            "4": "float"
+        },
+        "correctAnswers": {
+            "text": "decimal",
+            "number": 3
+        }
+    },
+    {
+        "title": "Listę plików/katalogów, które są ignorowane przez system kontroli wersji git należy umieścić w pliku:",
+        "answers": {
+            "1": "gitsettings",
+            "2": "configgit",
+            "3": "ignoregit",
+            "4": "gitignore"
+        },
+        "correctAnswers": {
+            "text": "gitignore",
+            "number": 4
+        }
+    },
+    {
+        "title": "Skrót SPA oznacza:",
+        "answers": {
+            "1": "Super-Pure Application",
+            "2": "Super-Page Application",
+            "3": "Simple-Page Application",
+            "4": "Single-Page Application"
+        },
+        "correctAnswers": {
+            "text": "Single-Page Application",
+            "number": 4
+        }
+    },
+    {
+        "title": "Rozwinięciem skrótu ORM jest:",
+        "answers": {
+            "1": "Object Relational Mapping",
+            "2": "Object Relational Macro",
+            "3": "Object Reconstruct Mapping",
+            "4": "Object Relational Model"
+        },
+        "correctAnswers": {
+            "text": "Object Relational Mapping",
+            "number": 1
+        }
+    },
+    {
+        "title": "Metodą protokołu HTTP/HTTPS odpowiedzialną za aktualizowanie danych jest",
+        "answers": {
+            "1": "POST",
+            "2": "PUT",
+            "3": "HEAD",
+            "4": "GET"
+        },
+        "correctAnswers": {
+            "text": "PUT",
+            "number": 2
+        }
+    },
+    {
+        "title": "API typu REST wymienia dane w formacie zwanym",
+        "answers": {
+            "1": "JSON",
+            "2": "JWT",
+            "3": "XML",
+            "4": "HTML"
+        },
+        "correctAnswers": {
+            "text": "JSON",
+            "number": 1
+        }
+    },
+    {
+        "title": "Podatność stron internetowych polegająca na wstrzykiwaniu własnego kodu do strony to",
+        "answers": {
+            "1": "XSS",
+            "2": "Hijacking",
+            "3": "SQL Injection",
+            "4": "Data Poisoning"
+        },
+        "correctAnswers": {
+            "text": "XSS",
+            "number": 1
+        }
+    },
+    {
+        "title": "Kategorią zagrożeń na stanowisku pracy nie są",
+        "answers": {
+            "1": "zagrożenia chemiczne",
+            "2": "zagrożenia biologiczne",
+            "3": "zagrożenia fizyczne",
+            "4": "zagrożenia psychofizyczne"
+        },
+        "correctAnswers": {
+            "text": "zagrożenia biologiczne",
+            "number": 2
+        }
+    },
+    {
+        "title": "Czym jest automatyzacja procesu testowania?",
+        "answers": {
+            "1": "Procesem integracji testów w środowisku programistycznym",
+            "2": "Wykorzystaniem narzędzi i skryptów do przeprowadzania testów automatycznie bez ingerencji człowieka",
+            "3": "Weryfikacją poprawności działania aplikacji na urządzeniach mobilnych",
+            "4": "Kompilacją kodu w celu optymalizacji wydajności"
+        },
+        "correctAnswers": {
+            "text": "Wykorzystaniem narzędzi i skryptów do przeprowadzania testów automatycznie bez ingerencji człowieka",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który rodzaj testów służy do weryfikacji funkcji prototypu interfejsu?",
+        "answers": {
+            "1": "Testy wydajnościowe",
+            "2": "Testy interfejsu",
+            "3": "Testy zgodności",
+            "4": "Testy obciążeniowe"
+        },
+        "correctAnswers": {
+            "text": "Testy interfejsu",
+            "number": 2
+        }
+    },
+    {
+        "title": "Czym charakteryzują się testy interfejsu?",
+        "answers": {
+            "1": "Testy wydajnościowe",
+            "2": "Sprawdzają poprawność działania elementów graficznych i interakcji użytkownika z aplikacją",
+            "3": "Testują zgodność aplikacji z wymogami prawnymi",
+            "4": "Optymalizują kod aplikacji"
+        },
+        "correctAnswers": {
+            "text": "Sprawdzają poprawność działania elementów graficznych i interakcji użytkownika z aplikacją",
+            "number": 2
+        }
+    },
+    {
+        "title": "Co powinno zostać uwzględnione w scenariuszu testowym aplikacji?",
+        "answers": {
+            "1": "Szczegółowe instrukcje dotyczące implementacji kodu",
+            "2": "Dokumentacja techniczna aplikacji",
+            "3": "Plan wdrożenia aplikacji w środowisku produkcyjnym",
+            "4": "Opis kroków testowych, oczekiwanych wyników i warunków wstępnych"
+        },
+        "correctAnswers": {
+            "text": "Opis kroków testowych, oczekiwanych wyników i warunków wstępnych",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który rodzaj testów sprawdza użyteczność aplikacji z perspektywy użytkownika końcowego?",
+        "answers": {
+            "1": "Testy obciążeniowe",
+            "2": "Testy funkcjonalne",
+            "3": "Testy użyteczności",
+            "4": "Testy zgodności"
+        },
+        "correctAnswers": {
+            "text": "Testy użyteczności",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych przykładów jest testem niefunkcjonalnym?",
+        "answers": {
+            "1": "Testowanie wydajności aplikacji pod dużym obciążeniem",
+            "2": "Sprawdzenie poprawności logowania użytkownika",
+            "3": "Weryfikacja poprawności działania przycisku",
+            "4": "Sprawdzenie obsługi formularza rejestracji"
+        },
+        "correctAnswers": {
+            "text": "Testowanie wydajności aplikacji pod dużym obciążeniem",
+            "number": 1
+        }
+    },
+    {
+        "title": "Czym różnią się testy funkcjonalne od niefunkcjonalnych?",
+        "answers": {
+            "1": "Testy funkcjonalne sprawdzają wydajność aplikacji, a niefunkcjonalne poprawność kodu",
+            "2": "Testy funkcjonalne sprawdzają zgodność działania aplikacji z założeniami, a niefunkcjonalne testują aspekty wydajności, bezpieczeństwa i użyteczności",
+            "3": "Testy funkcjonalne są przeprowadzane tylko przez użytkowników końcowych, a niefunkcjonalne przez programistów",
+            "4": "Testy funkcjonalne skupiają się na interfejsie, a niefunkcjonalne na zapleczu aplikacji"
+        },
+        "correctAnswers": {
+            "text": "Testy funkcjonalne sprawdzają zgodność działania aplikacji z założeniami, a niefunkcjonalne testują aspekty wydajności, bezpieczeństwa i użyteczności",
+            "number": 2
+        }
+    },
+    {
+        "title": "Do czego służy dokumentacja wdrożeniowa?",
+        "answers": {
+            "1": "Do zarządzania bazą danych aplikacji",
+            "2": "Do testowania wydajności aplikacji",
+            "3": "Do tworzenia zadań w systemie kontroli wersji",
+            "4": "Do opisania procesu instalacji i konfiguracji aplikacji w środowisku produkcyjnym"
+        },
+        "correctAnswers": {
+            "text": "Do opisania procesu instalacji i konfiguracji aplikacji w środowisku produkcyjnym",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które z poniższych nie jest elementem instrukcji użytkownika programu?",
+        "answers": {
+            "1": "Opis procedur testowych i wyników przeprowadzonych testów",
+            "2": "Plan wdrożenia aplikacji",
+            "3": "Instrukcje dotyczące optymalizacji kodu",
+            "4": "Dane techniczne serwera"
+        },
+        "correctAnswers": {
+            "text": "Opis procedur testowych i wyników przeprowadzonych testów",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co zawiera dokumentacja wdrożenia projektu?",
+        "answers": {
+            "1": "Opis błędów znalezionych podczas testów",
+            "2": "Informacje o etapach implementacji aplikacji w środowisku produkcyjnym",
+            "3": "Plan marketingowy aplikacji",
+            "4": "Instrukcję obsługi aplikacji dla użytkowników końcowych"
+        },
+        "correctAnswers": {
+            "text": "Informacje o etapach implementacji aplikacji w środowisku produkcyjnym",
+            "number": 2
+        }
+    },
+    {
+        "title": "Co należy uwzględnić w instrukcji użytkownika aplikacji?",
+        "answers": {
+            "1": "Opis instalacji, konfiguracji i obsługi programu",
+            "2": "Opis struktur danych używanych w kodzie",
+            "3": "Plan wdrożenia projektu",
+            "4": "Opis narzędzi programistycznych użytych podczas tworzenia aplikacji"
+        },
+        "correctAnswers": {
+            "text": "Opis instalacji, konfiguracji i obsługi programu",
+            "number": 1
+        }
+    },
+    {
+        "title": "Czym jest dokumentacja pomocy programu?",
+        "answers": {
+            "1": "Dokumentem zawierającym szczegóły techniczne kodu źródłowego",
+            "2": "Instrukcją wyjaśniającą, jak korzystać z funkcji programu",
+            "3": "Zbiorem testów jednostkowych i wyników",
+            "4": "Dokumentem zawierającym plany rozwoju aplikacji"
+        },
+        "correctAnswers": {
+            "text": "Instrukcją wyjaśniającą, jak korzystać z funkcji programu",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który z poniższych elementów należy uwzględnić w dokumentacji kodu programu?",
+        "answers": {
+            "1": "Szczegóły konfiguracji serwera",
+            "2": "Lista błędów wykrytych podczas testów",
+            "3": "Opis funkcji, klas i zmiennych w kodzie",
+            "4": "Plan marketingowy aplikacji"
+        },
+        "correctAnswers": {
+            "text": "Opis funkcji, klas i zmiennych w kodzie",
+            "number": 3
+        }
+    },
+    {
+        "title": "Do czego służą komentarze w kodzie źródłowym programu?",
+        "answers": {
+            "1": "Do dokumentowania działania kodu i ułatwienia jego zrozumienia",
+            "2": "Do uruchamiania kodu w trybie debugowania",
+            "3": "Do definiowania zmiennych globalnych",
+            "4": "Do optymalizacji wydajności kodu"
+        },
+        "correctAnswers": {
+            "text": "Do dokumentowania działania kodu i ułatwienia jego zrozumienia",
+            "number": 1
+        }
+    },
+    {
+        "title": "Który etap pozwala na poprawienie wydajności aplikacji przed jej publikacją?",
+        "answers": {
+            "1": "Optymalizacja kodu",
+            "2": "Testowanie jednostkowe",
+            "3": "Tworzenie interfejsu graficznego",
+            "4": "Dodawanie komentarzy do kodu"
+        },
+        "correctAnswers": {
+            "text": "Optymalizacja kodu",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co należy zrobić po znalezieniu błędu w kodzie podczas testowania?",
+        "answers": {
+            "1": "Zignorować błąd, jeśli aplikacja działa poprawnie",
+            "2": "Poprawić błąd i ponownie przetestować aplikację",
+            "3": "Zgłosić błąd do użytkownika końcowego",
+            "4": "Usunąć moduł zawierający błąd"
+        },
+        "correctAnswers": {
+            "text": "Poprawić błąd i ponownie przetestować aplikację",
+            "number": 2
+        }
+    },
+    {
+        "title": "Które narzędzie może być używane do automatycznego testowania aplikacji webowych?",
+        "answers": {
+            "1": "Postman",
+            "2": "Blender",
+            "3": "Selenium",
+            "4": "Visual Studio Code"
+        },
+        "correctAnswers": {
+            "text": "Selenium",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych sposobów może służyć optymalizacji kodu źródłowego?",
+        "answers": {
+            "1": "Usunięcie nieużywanych zmiennych i funkcji",
+            "2": "Zwiększenie liczby instrukcji warunkowych",
+            "3": "Użycie większej liczby komentarzy w kodzie",
+            "4": "Zastąpienie zmiennych globalnych lokalnymi"
+        },
+        "correctAnswers": {
+            "text": "Usunięcie nieużywanych zmiennych i funkcji",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co oznacza termin debugowanie w programowaniu?",
+        "answers": {
+            "1": "Publikowanie aplikacji w środowisku produkcyjnym",
+            "2": "Opracowywanie nowych funkcji aplikacji",
+            "3": "Wyszukiwanie i usuwanie błędów w kodzie",
+            "4": "Tworzenie dokumentacji kodu"
+        },
+        "correctAnswers": {
+            "text": "Wyszukiwanie i usuwanie błędów w kodzie",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych etapów jest częścią testowania aplikacji?",
+        "answers": {
+            "1": "Tworzenie bazy danych",
+            "2": "Debugowanie kodu w celu znalezienia błędów",
+            "3": "Tworzenie interfejsu graficznego",
+            "4": "Kompilowanie aplikacji"
+        },
+        "correctAnswers": {
+            "text": "Debugowanie kodu w celu znalezienia błędów",
+            "number": 2
+        }
+    },
+    {
+        "title": "Czym jest walidacja kodu programu?",
+        "answers": {
+            "1": "Procesem tworzenia dokumentacji kodu",
+            "2": "Procesem publikowania aplikacji w sklepie",
+            "3": "Procesem kompilowania kodu",
+            "4": "Procesem sprawdzania poprawności i zgodności kodu z założeniami"
+        },
+        "correctAnswers": {
+            "text": "Procesem sprawdzania poprawności i zgodności kodu z założeniami",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z poniższych mechanizmów pozwala na ograniczenie dostępu do niektórych części aplikacji webowej?",
+        "answers": {
+            "1": "Dynamiczne formularze",
+            "2": "System logowania i kontroli dostępu",
+            "3": "Statyczne pliki CSS",
+            "4": "Mechanizm renderowania treści"
+        },
+        "correctAnswers": {
+            "text": "System logowania i kontroli dostępu",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jakie dane mogą być przechowywane w ciasteczkach przeglądarki?",
+        "answers": {
+            "1": "Wrażliwe dane użytkownika, takie jak hasła",
+            "2": "Preferencje użytkownika, takie jak język lub motyw witryny",
+            "3": "Dane przechowywane w bazie danych",
+            "4": "Kod źródłowy aplikacji webowej"
+        },
+        "correctAnswers": {
+            "text": "Preferencje użytkownika, takie jak język lub motyw witryny",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który z poniższych elementów najlepiej opisuje funkcjonalność e-sklepu?",
+        "answers": {
+            "1": "System zarządzania koszykiem i realizacją zamówień",
+            "2": "Dostęp do bazy danych użytkownika",
+            "3": "Obsługa serwera e-mail",
+            "4": "Mechanizm renderowania grafiki 3D"
+        },
+        "correctAnswers": {
+            "text": "System zarządzania koszykiem i realizacją zamówień",
+            "number": 1
+        }
+    },
+    {
+        "title": "Która technologia jest używana do integracji aplikacji webowej z bazą danych?",
+        "answers": {
+            "1": "HTTP",
+            "2": "SQL",
+            "3": "CSS",
+            "4": "JavaScript"
+        },
+        "correctAnswers": {
+            "text": "SQL",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który element jest niezbędny w dynamicznym formularzu logowania?",
+        "answers": {
+            "1": "Plik graficzny",
+            "2": "Nagłówek HTTP",
+            "3": "Tabela w bazie danych",
+            "4": "Pola tekstowe do wprowadzania danych użytkownika"
+        },
+        "correctAnswers": {
+            "text": "Pola tekstowe do wprowadzania danych użytkownika",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który framework wspiera tworzenie dynamicznych interfejsów użytkownika przy użyciu TypeScript?",
+        "answers": {
+            "1": "Angular",
+            "2": "ASPNET Core",
+            "3": "jQuery",
+            "4": "Django"
+        },
+        "correctAnswers": {
+            "text": "Angular",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co jest głównym celem stosowania frameworka Node.js w aplikacjach webowych?",
+        "answers": {
+            "1": "Tworzenie aplikacji mobilnych",
+            "2": "Testowanie API",
+            "3": "Obsługa aplikacji serwerowych i przetwarzanie asynchroniczne",
+            "4": "Projektowanie graficznego interfejsu użytkownika"
+        },
+        "correctAnswers": {
+            "text": "Obsługa aplikacji serwerowych i przetwarzanie asynchroniczne",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który framework opiera się na tworzeniu komponentów w języku JavaScript?",
+        "answers": {
+            "1": "Node.js",
+            "2": "React.js",
+            "3": "Django",
+            "4": "ASPNET Core"
+        },
+        "correctAnswers": {
+            "text": "React.js",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który element środowiska IDE jest kluczowy dla pracy nad aplikacjami webowymi?",
+        "answers": {
+            "1": "Narzędzie do projektowania grafiki",
+            "2": "Emulator urządzeń mobilnych",
+            "3": "Debugger, edytor kodu, integracja z systemem kontroli wersji",
+            "4": "Zarządzanie bazami danych"
+        },
+        "correctAnswers": {
+            "text": "Debugger, edytor kodu, integracja z systemem kontroli wersji",
+            "number": 3
+        }
+    },
+    {
+        "title": "Które z poniższych narzędzi jest powszechnie używane do debugowania aplikacji webowych?",
+        "answers": {
+            "1": "Git",
+            "2": "Blender",
+            "3": "Postman",
+            "4": "DevTools"
+        },
+        "correctAnswers": {
+            "text": "DevTools",
+            "number": 4
+        }
+    },
+    {
+        "title": "Czym różni się środowisko RAD od tradycyjnego IDE w kontekście aplikacji webowych?",
+        "answers": {
+            "1": "RAD skupia się wyłącznie na tworzeniu frontendu aplikacji",
+            "2": "RAD pozwala na szybsze prototypowanie i rozwój aplikacji dzięki narzędziom wizualnym",
+            "3": "RAD działa tylko w systemach Windows",
+            "4": "RAD nie obsługuje żadnych języków backendowych"
+        },
+        "correctAnswers": {
+            "text": "RAD pozwala na szybsze prototypowanie i rozwój aplikacji dzięki narzędziom wizualnym",
+            "number": 2
+        }
+    },
+    {
+        "title": "Które z poniższych jest przykładem aplikacji mobilnej korzystającej z bazy danych?",
+        "answers": {
+            "1": "Aplikacja przechowująca listę kontaktów użytkownika",
+            "2": "Aplikacja pokazująca godzinę lokalną",
+            "3": "Aplikacja do robienia zdjęć",
+            "4": "Aplikacja kalkulator"
+        },
+        "correctAnswers": {
+            "text": "Aplikacja przechowująca listę kontaktów użytkownika",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co jest głównym celem przygotowania aplikacji do publikacji w sklepie mobilnym?",
+        "answers": {
+            "1": "Optymalizacja kodu aplikacji pod kątem szybkości działania",
+            "2": "Zmniejszenie rozmiaru aplikacji poniżej 20 MB",
+            "3": "Dostosowanie aplikacji do wymagań platformy i przepisów sklepu",
+            "4": "Umożliwienie korzystania z aplikacji tylko w trybie offline"
+        },
+        "correctAnswers": {
+            "text": "Dostosowanie aplikacji do wymagań platformy i przepisów sklepu",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który język programowania jest powszechnie używany do programowania interfejsów użytkownika za pomocą XAML?",
+        "answers": {
+            "1": "C++",
+            "2": "Java",
+            "3": "C#",
+            "4": "Python"
+        },
+        "correctAnswers": {
+            "text": "C#",
+            "number": 3
+        }
+    },
+    {
+        "title": "W jaki sposób można przechowywać dane użytkownika w aplikacji mobilnej na system Android?",
+        "answers": {
+            "1": "Za pomocą plików SharedPreferences",
+            "2": "W rejestrze systemu",
+            "3": "Wyłącznie w zewnętrznych bazach danych",
+            "4": "Tylko w pamięci RAM"
+        },
+        "correctAnswers": {
+            "text": "Za pomocą plików SharedPreferences",
+            "number": 1
+        }
+    },
+    {
+        "title": "Który z poniższych komponentów UI aplikacji mobilnych odpowiada za nawigację między ekranami?",
+        "answers": {
+            "1": "Przycisk",
+            "2": "ListView",
+            "3": "Navigation Drawer",
+            "4": "Pasek narzędziowy"
+        },
+        "correctAnswers": {
+            "text": "Navigation Drawer",
+            "number": 3
+        }
+    },
+    {
+        "title": "Co należy zrobić, aby obsłużyć zdarzenie kliknięcia przycisku w aplikacji desktopowej?",
+        "answers": {
+            "1": "Zdefiniować metodę w systemie menu",
+            "2": "Podłączyć zdarzenie kliknięcia do odpowiedniej metody w kodzie",
+            "3": "Stworzyć nowy dialog modalny",
+            "4": "Zmodyfikować plik XAML"
+        },
+        "correctAnswers": {
+            "text": "Podłączyć zdarzenie kliknięcia do odpowiedniej metody w kodzie",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który z poniższych komponentów może być częścią systemu menu aplikacji desktopowej?",
+        "answers": {
+            "1": "CheckBox",
+            "2": "MenuItem",
+            "3": "Canvas",
+            "4": "ScrollBar"
+        },
+        "correctAnswers": {
+            "text": "MenuItem",
+            "number": 2
+        }
+    },
+    {
+        "title": "Do czego służy język XAML w programowaniu aplikacji desktopowych?",
+        "answers": {
+            "1": "Do zarządzania bazami danych",
+            "2": "Do obsługi zdarzeń klawiatury",
+            "3": "Do optymalizacji działania aplikacji",
+            "4": "Do projektowania graficznego interfejsu użytkownika"
+        },
+        "correctAnswers": {
+            "text": "Do projektowania graficznego interfejsu użytkownika",
+            "number": 4
+        }
+    },
+    {
+        "title": "Czym różni się dialog modalny od niemodalnego?",
+        "answers": {
+            "1": "Dialog modalny wymaga zamknięcia, aby wrócić do głównego okna aplikacji, dialog niemodalny tego nie wymaga",
+            "2": "Dialog modalny działa w tle, a dialog niemodalny jest zawsze na pierwszym planie",
+            "3": "Dialog modalny pozwala na interakcję z innymi oknami aplikacji, dialog niemodalny nie",
+            "4": "Dialog modalny jest ograniczony tylko do aplikacji konsolowych"
+        },
+        "correctAnswers": {
+            "text": "Dialog modalny wymaga zamknięcia, aby wrócić do głównego okna aplikacji, dialog niemodalny tego nie wymaga",
+            "number": 1
+        }
+    },
+    {
+        "title": "Który z poniższych elementów interfejsu użytkownika jest typowy dla aplikacji desktopowej?",
+        "answers": {
+            "1": "Przycisk",
+            "2": "Strona HTML",
+            "3": "REST API",
+            "4": "Routing"
+        },
+        "correctAnswers": {
+            "text": "Przycisk",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które z poniższych stwierdzeń najlepiej opisuje WPF?",
+        "answers": {
+            "1": "Framework służący do tworzenia aplikacji webowych",
+            "2": "Framework służący do tworzenia aplikacji desktopowych w środowisku Windows",
+            "3": "Biblioteka do przetwarzania danych w Pythonie",
+            "4": "Framework umożliwiający obsługę urządzeń IoT"
+        },
+        "correctAnswers": {
+            "text": "Framework służący do tworzenia aplikacji desktopowych w środowisku Windows",
+            "number": 2
+        }
+    },
+    {
+        "title": "Czym jest framework w programowaniu?",
+        "answers": {
+            "1": "System operacyjny służący do uruchamiania aplikacji",
+            "2": "Moduł do zarządzania bazami danych",
+            "3": "Zbiór gotowych bibliotek, narzędzi i reguł wspierających tworzenie aplikacji",
+            "4": "Edytor graficzny do projektowania interfejsów użytkownika"
+        },
+        "correctAnswers": {
+            "text": "Zbiór gotowych bibliotek, narzędzi i reguł wspierających tworzenie aplikacji",
+            "number": 3
+        }
+    },
+    {
+        "title": "Która z poniższych kart graficznych zapewnia większą wydajność w grach komputerowych?",
+        "answers": {
+            "1": "Intel UHD Graphics 630 – zintegrowana",
+            "2": "AMD Radeon R7 240 – 2GB GDDR5, 64-bit",
+            "3": "AMD Radeon RX 580 – 8GB GDDR5, 256-bit",
+            "4": "NVIDIA GeForce GTX 1050 Ti – 4GB GDDR5, 128-bit"
+        },
+        "correctAnswers": {
+            "text": "AMD Radeon RX 580 – 8GB GDDR5, 256-bit",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych parametrów opisuje szybkość procesora?",
+        "answers": {
+            "1": "Pojemność pamięci podręcznej",
+            "2": "Typ złącza",
+            "3": "Częstotliwość taktowania",
+            "4": "Ilość rdzeni"
+        },
+        "correctAnswers": {
+            "text": "Częstotliwość taktowania",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych dysków zapewnia najszybszy odczyt danych?",
+        "answers": {
+            "1": "SSD SATA III, prędkość odczytu do 550 MB/s",
+            "2": "HDD 5400 RPM, SATA II, 32 MB Cache",
+            "3": "HDD 7200 RPM, SATA III, 64 MB Cache",
+            "4": "SSD NVMe PCIe 3.0, prędkość odczytu do 3500 MB/s"
+        },
+        "correctAnswers": {
+            "text": "SSD NVMe PCIe 3.0, prędkość odczytu do 3500 MB/s",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z poniższych parametrów dysku twardego ma największy wpływ na jego szybkość?",
+        "answers": {
+            "1": "Prędkość obrotowa talerzy (RPM)",
+            "2": "Pojemność dysku",
+            "3": "Rodzaj złącza (SATA/PCIe)",
+            "4": "Ilość pamięci podręcznej (Cache)"
+        },
+        "correctAnswers": {
+            "text": "Prędkość obrotowa talerzy (RPM)",
+            "number": 1
+        }
+    },
+    {
+        "title": "Ile kilobajtów (KB) mieści się w 1 megabajcie (MB)?",
+        "answers": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 4
+        }
+    },
+    {
+        "title": " terabajt (TB) to ile gigabajtów (GB)?",
+        "answers": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jakie urządzenie techniki komputerowej najlepiej nadaje się do projektowania graficznego w programach typu CAD?",
+        "answers": {
+            "1": "Serwer z dużą ilością pamięci RAM",
+            "2": "Laptop z zintegrowaną kartą graficzną",
+            "3": "Komputer stacjonarny z kartą graficzną NVIDIA Quadro",
+            "4": "Laptop z ekranem dotykowym"
+        },
+        "correctAnswers": {
+            "text": "Komputer stacjonarny z kartą graficzną NVIDIA Quadro",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który rodzaj pamięci RAM należy wybrać do wydajnego komputera gamingowego?",
+        "answers": {
+            "1": "DDR",
+            "2": "DDR",
+            "3": "DDR",
+            "4": "LPDDR4"
+        },
+        "correctAnswers": {
+            "text": "DDR",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który z poniższych etapów przetwarzania rozkazów przez procesor następuje jako pierwszy?",
+        "answers": {
+            "1": "Pobranie rozkazu z pamięci (Fetch)",
+            "2": "Zapis wyników do pamięci (Write Back)",
+            "3": "Wykonanie instrukcji (Execution)",
+            "4": "Dekodowanie rozkazu (Decode)"
+        },
+        "correctAnswers": {
+            "text": "Pobranie rozkazu z pamięci (Fetch)",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co określa zestaw instrukcji (ISA) procesora?",
+        "answers": {
+            "1": "Instrukcje, które procesor jest w stanie wykonać",
+            "2": "Sposób zarządzania pamięcią podręczną",
+            "3": "Schemat połączeń między procesorem, a innymi komponentami",
+            "4": "Rodzaje danych przechowywanych w pamięci"
+        },
+        "correctAnswers": {
+            "text": "Instrukcje, które procesor jest w stanie wykonać",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jakie zadanie pełni pamięć operacyjna (RAM) w systemie komputerowym?",
+        "answers": {
+            "1": "Stałe przechowywanie systemu operacyjnego",
+            "2": "Zapewnienie kopii zapasowej danych użytkownika",
+            "3": "Tymczasowe przechowywanie danych i instrukcji dla procesora",
+            "4": "Zarządzanie przepływem danych między urządzeniami wejścia/wyjścia"
+        },
+        "correctAnswers": {
+            "text": "Tymczasowe przechowywanie danych i instrukcji dla procesora",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który element systemu komputerowego odpowiada za przesyłanie danych między procesorem a pamięcią RAM?",
+        "answers": {
+            "1": "Karta graficzna",
+            "2": "Kontroler DMA",
+            "3": "Zasilacz",
+            "4": "Mostek północny (Northbridge)"
+        },
+        "correctAnswers": {
+            "text": "Mostek północny (Northbridge)",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jak procesor komunikuje się z pamięcią podręczną (cache)?",
+        "answers": {
+            "1": "Wykorzystując jedynie pamięć RAM",
+            "2": "Poprzez system przerwań",
+            "3": "Bezpośrednio, z pominięciem mostków systemowych",
+            "4": "Za pomocą linii danych w magistrali systemowej"
+        },
+        "correctAnswers": {
+            "text": "Za pomocą linii danych w magistrali systemowej",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z poniższych opisów najlepiej definiuje system informatyczny?",
+        "answers": {
+            "1": "Oprogramowanie wspierające wyłącznie zarządzanie danymi osobowymi",
+            "2": "Zespół urządzeń technicznych wykorzystywanych do pracy biurowej",
+            "3": "Zespół ludzi, procedur, oprogramowania i sprzętu służący do przetwarzania danych",
+            "4": "Sieć komputerowa umożliwiająca komunikację między użytkownikami"
+        },
+        "correctAnswers": {
+            "text": "Zespół ludzi, procedur, oprogramowania i sprzętu służący do przetwarzania danych",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych przykładów jest systemem informacji przetwarzanym przez system informatyczny?",
+        "answers": {
+            "1": "System PESEL",
+            "2": "System monitorowania temperatury serwerów",
+            "3": "System sterowania światłami drogowymi",
+            "4": "System wentylacji w biurowcach"
+        },
+        "correctAnswers": {
+            "text": "System PESEL",
+            "number": 1
+        }
+    },
+    {
+        "title": "Gdzie są przechowywane dane w przypadku korzystania z chmury obliczeniowej?",
+        "answers": {
+            "1": "Na dyskach optycznych użytkownika",
+            "2": "Na dyskach optycznych użytkownika",
+            "3": "Na serwerze lokalnym użytkownika",
+            "4": "Na zdalnych serwerach dostawcy usług"
+        },
+        "correctAnswers": {
+            "text": "Na zdalnych serwerach dostawcy usług",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jaki system informatyczny powinien zostać wykorzystany do obsługi sprzedaży w sklepie internetowym?",
+        "answers": {
+            "1": "System ERP",
+            "2": "System CMS",
+            "3": "System CRM",
+            "4": "System e-commerce"
+        },
+        "correctAnswers": {
+            "text": "System e-commerce",
+            "number": 4
+        }
+    },
+    {
+        "title": "Co jest główną funkcją portali społecznościowych?",
+        "answers": {
+            "1": "Tworzenie kopii zapasowych danych",
+            "2": "Udostępnianie treści i komunikacja między użytkownikami",
+            "3": "Zarządzanie sprzedażą produktów i usług",
+            "4": "Analiza wyników biznesowych"
+        },
+        "correctAnswers": {
+            "text": "Udostępnianie treści i komunikacja między użytkownikami",
+            "number": 2
+        }
+    },
+    {
+        "title": "Która z poniższych zasad jest kluczowa dla bezpiecznego korzystania z portali społecznościowych?",
+        "answers": {
+            "1": "Udostępnianie jak największej ilości danych osobowych",
+            "2": "Unikanie ustawiania silnych haseł do konta",
+            "3": "Zgłaszanie postów, które nie są zgodne z regulaminem",
+            "4": "Regularne sprawdzanie ustawień prywatności"
+        },
+        "correctAnswers": {
+            "text": "Regularne sprawdzanie ustawień prywatności",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z poniższych przykładów jest zastosowaniem systemu informatycznego w działalności biznesowej?",
+        "answers": {
+            "1": "System nawigacji GPS",
+            "2": "System sterowania ruchem miejskim",
+            "3": "E-sklep",
+            "4": "System wentylacji"
+        },
+        "correctAnswers": {
+            "text": "E-sklep",
+            "number": 3
+        }
+    },
+    {
+        "title": "Które z poniższych rozwiązań ułatwia korzystanie z serwisów internetowych osobom niewidomym?",
+        "answers": {
+            "1": "Dodanie czytnika ekranu (screen reader)",
+            "2": "Dostosowanie rozdzielczości ekranu",
+            "3": "Zmniejszenie liczby grafik na stronie",
+            "4": "Zapewnienie możliwości zmiany czcionki"
+        },
+        "correctAnswers": {
+            "text": "Dodanie czytnika ekranu (screen reader)",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co oznacza poziom dostępności AAA w WCAG 2.0?",
+        "answers": {
+            "1": "Dostosowanie wyłącznie do użytkowników mobilnych",
+            "2": "Najwyższy poziom dostępności",
+            "3": "Średni poziom dostępności",
+            "4": "Minimalny poziom dostępności"
+        },
+        "correctAnswers": {
+            "text": "Najwyższy poziom dostępności",
+            "number": 2
+        }
+    },
+    {
+        "title": "Która z poniższych topologii sieci charakteryzuje się połączeniem wszystkich urządzeń jednym kablem?",
+        "answers": {
+            "1": "Topologia siatki",
+            "2": "Topologia magistrali",
+            "3": "Topologia pierścienia",
+            "4": "Topologia gwiazdy"
+        },
+        "correctAnswers": {
+            "text": "Topologia magistrali",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który protokół modelu TCP/IP jest odpowiedzialny za niezawodne przesyłanie danych?",
+        "answers": {
+            "1": "TCP",
+            "2": "UDP",
+            "3": "HTTP",
+            "4": "IP"
+        },
+        "correctAnswers": {
+            "text": "TCP",
+            "number": 1
+        }
+    },
+    {
+        "title": "Ile warstw ma model TCP/IP?",
+        "answers": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 1
+        }
+    },
+    {
+        "title": "Która z poniższych cech dotyczy sieci bezprzewodowej?",
+        "answers": {
+            "1": "Wymaga użycia kabli do połączenia urządzeń",
+            "2": "Jest bardziej podatna na zakłócenia w transmisji danych",
+            "3": "Nie działa w miejscach z dużą liczbą urządzeń",
+            "4": "Nie wymaga zabezpieczeń, ponieważ jest automatycznie chroniona"
+        },
+        "correctAnswers": {
+            "text": "Jest bardziej podatna na zakłócenia w transmisji danych",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jaką przepustowość ma sieć przesyłająca 500 MB danych w 10 sekund?",
+        "answers": {
+            "1": " Mbps",
+            "2": " Mbps",
+            "3": " Mbps",
+            "4": " Mbps"
+        },
+        "correctAnswers": {
+            "text": " Mbps",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jak nazywa się proces przesyłania danych z komputera lokalnego na serwer?",
+        "answers": {
+            "1": "Wysyłanie danych",
+            "2": "Przesyłanie danych",
+            "3": "Streaming",
+            "4": "Pobieranie danych"
+        },
+        "correctAnswers": {
+            "text": "Wysyłanie danych",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które z poniższych określeń najlepiej opisuje oprogramowanie typu ransomware?",
+        "answers": {
+            "1": "Oprogramowanie używane do przeprowadzania ataków DDoS",
+            "2": "Złośliwe aplikacje wyświetlające reklamy",
+            "3": "Programy zbierające dane osobowe bez zgody użytkownika",
+            "4": "Oprogramowanie blokujące dostęp do danych w celu wymuszenia okupu"
+        },
+        "correctAnswers": {
+            "text": "Oprogramowanie blokujące dostęp do danych w celu wymuszenia okupu",
+            "number": 4
+        }
+    },
+    {
+        "title": "Co to jest własność intelektualna?",
+        "answers": {
+            "1": "Lista plików przechowywanych w chmurze",
+            "2": "Zestaw ustaw o ochronie prywatności",
+            "3": "Koncepcja praw chroniących twórczość i wynalazki",
+            "4": "Zbiór danych osobowych"
+        },
+        "correctAnswers": {
+            "text": "Koncepcja praw chroniących twórczość i wynalazki",
+            "number": 3
+        }
+    },
+    {
+        "title": "Która z poniższych sytuacji narusza prawa autorskie?",
+        "answers": {
+            "1": "Korzystanie z programu typu open-source zgodnie z licencją",
+            "2": "Publikowanie filmu chronionego prawami autorskimi bez zgody właściciela",
+            "3": "Zakup licencji na oprogramowanie",
+            "4": "Tworzenie kopii zapasowej posiadanego legalnie programu"
+        },
+        "correctAnswers": {
+            "text": "Publikowanie filmu chronionego prawami autorskimi bez zgody właściciela",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jakie są podstawowe etapy tworzenia aplikacji?",
+        "answers": {
+            "1": "Analiza wymagań, projektowanie, implementacja, testowanie, wdrożenie",
+            "2": "Projektowanie, wdrożenie, utrzymanie, dokumentacja",
+            "3": "Implementacja, testowanie, wdrożenie, analiza potrzeb",
+            "4": "Analiza wymagań, testowanie, projektowanie, wdrożenie"
+        },
+        "correctAnswers": {
+            "text": "Analiza wymagań, projektowanie, implementacja, testowanie, wdrożenie",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jakie jest główne zadanie serwera aplikacyjnego?",
+        "answers": {
+            "1": "Przechowywanie danych",
+            "2": "Hostowanie stron HTML",
+            "3": "Obsługa logiki aplikacji",
+            "4": "Renderowanie grafiki"
+        },
+        "correctAnswers": {
+            "text": "Obsługa logiki aplikacji",
+            "number": 3
+        }
+    },
+    {
+        "title": "Wzorzec MVC dzieli aplikację na:",
+        "answers": {
+            "1": "Moduł, widok, kontroler",
+            "2": "Model, widok, kontroler",
+            "3": "Model, wersję, konfigurację",
+            "4": "Moduł, wersję, komponent"
+        },
+        "correctAnswers": {
+            "text": "Model, widok, kontroler",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który algorytm służy do wyszukiwania najkrótszej drogi w grafie?",
+        "answers": {
+            "1": "Algorytm Dijkstry",
+            "2": "Algorytm Kruskala",
+            "3": "Algorytm Floyda-Warshalla",
+            "4": "Algorytm Prim"
+        },
+        "correctAnswers": {
+            "text": "Algorytm Dijkstry",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jakiego typu dane przechowuje baza danych NoSQL?",
+        "answers": {
+            "1": "Relacyjne dane tabelaryczne",
+            "2": "Dane hierarchiczne i nienormalizowane",
+            "3": "Wyłącznie dane tekstowe",
+            "4": "Dane tylko w formacie JSON"
+        },
+        "correctAnswers": {
+            "text": "Dane hierarchiczne i nienormalizowane",
+            "number": 2
+        }
+    },
+    {
+        "title": "W programowaniu obiektowym, co to jest enkapsulacja?",
+        "answers": {
+            "1": "Dzielenie aplikacji na moduły",
+            "2": "Ukrywanie szczegółów implementacji",
+            "3": "Dziedziczenie cech między klasami",
+            "4": "Definiowanie interfejsów"
+        },
+        "correctAnswers": {
+            "text": "Ukrywanie szczegółów implementacji",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jakie są główne zasady WCAG 2.0?",
+        "answers": {
+            "1": "Elastyczna, prosta, przejrzysta, trwała",
+            "2": "Postępowa, responsywna, efektywna",
+            "3": "Percepcyjna, operacyjna, zrozumiała, solidna",
+            "4": "Dostosowana, szybka, mobilna, dostępna"
+        },
+        "correctAnswers": {
+            "text": "Percepcyjna, operacyjna, zrozumiała, solidna",
+            "number": 3
+        }
+    },
+    {
+        "title": "Która cecha wyróżnia sieć synchroniczną?",
+        "answers": {
+            "1": "Nie wymaga synchronizacji zegarów",
+            "2": "Transmisja danych odbywa się w ustalonych odstępach czasu",
+            "3": "Przesyłanie danych odbywa się w sposób nieciągły",
+            "4": "Zapewnia większą elastyczność w przesyłaniu danych"
+        },
+        "correctAnswers": {
+            "text": "Transmisja danych odbywa się w ustalonych odstępach czasu",
+            "number": 2
+        }
+    },
+    {
+        "title": "Która zasada poprawia bezpieczeństwo korzystania z sieci?",
+        "answers": {
+            "1": "Unikanie aktualizacji systemu operacyjnego",
+            "2": "Pobieranie plików z niezaufanych źródeł",
+            "3": "Używanie silnych, unikalnych haseł",
+            "4": "Udostępnianie haseł wśród znajomych"
+        },
+        "correctAnswers": {
+            "text": "Używanie silnych, unikalnych haseł",
+            "number": 3
+        }
+    },
+    {
+        "title": "Która cecha wyróżnia sieć asynchroniczną?",
+        "answers": {
+            "1": "Dane są przesyłane w sposób nieciągły, bez synchronizacji zegarów",
+            "2": "Wymaga synchronizacji zegarów",
+            "3": "Jest bardziej niezawodna niż sieć synchroniczna",
+            "4": "Dane są przesyłane tylko w ustalonych ramach czasowych"
+        },
+        "correctAnswers": {
+            "text": "Dane są przesyłane w sposób nieciągły, bez synchronizacji zegarów",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które narzędzie jest przykładem komunikatora audio-video?",
+        "answers": {
+            "1": "Notion",
+            "2": "Slack",
+            "3": "Google Drive",
+            "4": "Microsoft Teams"
+        },
+        "correctAnswers": {
+            "text": "Microsoft Teams",
+            "number": 4
+        }
+    },
+    {
+        "title": "Która z poniższych zasad jest częścią netykiety?",
+        "answers": {
+            "1": "Używanie nieformalnego języka w każdej rozmowie",
+            "2": "Publikowanie treści bez zgody autorów",
+            "3": "Unikanie pisania wielkimi literami w wiadomościach",
+            "4": "Ignorowanie wiadomości od innych użytkowników"
+        },
+        "correctAnswers": {
+            "text": "Unikanie pisania wielkimi literami w wiadomościach",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jaka jest dziesiętna wartość liczby binarnej 1010?",
+        "answers": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jaki jest zapis liczby dziesiętnej 255 w systemie szesnastkowym?",
+        "answers": {
+            "1": "EF",
+            "2": "",
+            "3": "FE",
+            "4": "FF"
+        },
+        "correctAnswers": {
+            "text": "FF",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jaki jest kod uzupełnieniowy do dwóch dla liczby -5 w zapisie binarnym na 8 bitach?",
+        "answers": {
+            "1": "1101",
+            "2": "1011",
+            "3": "0101",
+            "4": "0101"
+        },
+        "correctAnswers": {
+            "text": "1011",
+            "number": 2
+        }
+    },
+    {
+        "title": "Co charakteryzuje kod uzupełnieniowy do dwóch?",
+        "answers": {
+            "1": "Umożliwia reprezentację liczb ujemnych w systemie binarnym",
+            "2": "Przedstawia liczbę w postaci odwrotnej binarnej",
+            "3": "Służy do konwersji liczb binarnych na liczby dziesiętne",
+            "4": "Umożliwia zamianę systemu binarnego na szesnastkowy"
+        },
+        "correctAnswers": {
+            "text": "Umożliwia reprezentację liczb ujemnych w systemie binarnym",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jaki jest wynik dodawania binarnego liczb 1011 + 110?",
+        "answers": {
+            "1": "1",
+            "2": "1",
+            "3": "1",
+            "4": "1"
+        },
+        "correctAnswers": {
+            "text": "1",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jaki będzie wynik logicznej operacji AND dla liczb binarnych 1010 i 1100?",
+        "answers": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
+        "correctAnswers": {
+            "text": "",
+            "number": 2
+        }
+    },
+    {
+        "title": "Które narzędzie najlepiej nadaje się do konwersji liczby szesnastkowej na binarną?",
+        "answers": {
+            "1": "Kalkulator programisty",
+            "2": "Arkusz kalkulacyjny",
+            "3": "Przeglądarka internetowa",
+            "4": "Edytor tekstowy"
+        },
+        "correctAnswers": {
+            "text": "Kalkulator programisty",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które z poniższych narzędzi umożliwia jednoczesną pracę z systemami BIN, DEC i HEX?",
+        "answers": {
+            "1": "Przeglądarka grafów",
+            "2": "Kalkulator systemowy",
+            "3": "GIMP",
+            "4": "MS Word"
+        },
+        "correctAnswers": {
+            "text": "Kalkulator systemowy",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jaki rodzaj złośliwego oprogramowania działa w tle, przechwytując informacje o wpisywanych hasłach?",
+        "answers": {
+            "1": "Keylogger",
+            "2": "Adware",
+            "3": "Trojan",
+            "4": "Spyware"
+        },
+        "correctAnswers": {
+            "text": "Keylogger",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co jest głównym celem ataku phishingowego?",
+        "answers": {
+            "1": "Wykradanie haseł z pamięci operacyjnej urządzenia",
+            "2": "Przejęcie danych osobowych poprzez fałszywe strony lub wiadomości",
+            "3": "Zakłócenie działania sieci poprzez nadmiar zapytań",
+            "4": "Blokowanie dostępu do usług online"
+        },
+        "correctAnswers": {
+            "text": "Przejęcie danych osobowych poprzez fałszywe strony lub wiadomości",
+            "number": 2
+        }
+    },
+    {
+        "title": "Który atak hakerski polega na zasypywaniu serwera dużą liczbą zapytań, co powoduje jego przeciążenie?",
+        "answers": {
+            "1": "Phishing",
+            "2": "SQL Injection",
+            "3": "Man-in-the-Middle",
+            "4": "DDoS"
+        },
+        "correctAnswers": {
+            "text": "DDoS",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z poniższych środków najlepiej zabezpiecza komputer przed wirusami?",
+        "answers": {
+            "1": "Regularne tworzenie kopii zapasowych",
+            "2": "Aktualny program antywirusowy",
+            "3": "Unikanie korzystania z publicznych sieci Wi-Fi",
+            "4": "Używanie silnych haseł"
+        },
+        "correctAnswers": {
+            "text": "Aktualny program antywirusowy",
+            "number": 2
+        }
+    },
+    {
+        "title": "Co jest głównym celem firewalla w systemie komputerowym?",
+        "answers": {
+            "1": "Ochrona danych na poziomie aplikacji internetowych",
+            "2": "Szyfrowanie przesyłanych danych",
+            "3": "Zapobieganie wyciekom danych na skutek błędów systemowych",
+            "4": "Zarządzanie ruchem sieciowym i blokowanie nieautoryzowanego dostępu"
+        },
+        "correctAnswers": {
+            "text": "Zarządzanie ruchem sieciowym i blokowanie nieautoryzowanego dostępu",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które z poniższych zachowań jest zagrożeniem dla sfery emocjonalnej człowieka w cyberprzestrzeni?",
+        "answers": {
+            "1": "Przesyłanie niezaszyfrowanych plików",
+            "2": "Cyberstalking",
+            "3": "Nadmierne korzystanie z mediów społecznościowych",
+            "4": "Zła postawa podczas pracy przy komputerze"
+        },
+        "correctAnswers": {
+            "text": "Cyberstalking",
+            "number": 2
+        }
+    },
+    {
+        "title": "Które zagrożenie związane z korzystaniem z cyberprzestrzeni dotyczy zdrowia fizycznego?",
+        "answers": {
+            "1": "Depresja związana z cyberprzemocą",
+            "2": "Uzależnienie od gier komputerowych",
+            "3": "Rozprzestrzenianie fałszywych informacji",
+            "4": "Problemy z kręgosłupem spowodowane długim siedzeniem"
+        },
+        "correctAnswers": {
+            "text": "Problemy z kręgosłupem spowodowane długim siedzeniem",
+            "number": 4
+        }
+    },
+    {
+        "title": "Który z poniższych sposobów pomaga przeciwdziałać uzależnieniu od Internetu?",
+        "answers": {
+            "1": "Zwiększenie liczby godzin spędzanych w mediach społecznościowych",
+            "2": "Wprowadzenie regularnych przerw od korzystania z urządzeń cyfrowych",
+            "3": "Korzystanie z komputera tylko w nocy",
+            "4": "Zainstalowanie większej liczby aplikacji rozrywkowych"
+        },
+        "correctAnswers": {
+            "text": "Wprowadzenie regularnych przerw od korzystania z urządzeń cyfrowych",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jak można zapobiec problemom społecznym wynikającym z nadmiernego korzystania z Internetu?",
+        "answers": {
+            "1": "Zwiększać ilość czasu spędzanego przed ekranem",
+            "2": "Utrzymywać równowagę między relacjami online i offline",
+            "3": "Unikać kontaktu z ludźmi w rzeczywistości",
+            "4": "Wycofać się całkowicie z życia wirtualnego"
+        },
+        "correctAnswers": {
+            "text": "Utrzymywać równowagę między relacjami online i offline",
+            "number": 2
+        }
+    },
+    {
+        "title": "Co należy zrobić, aby bezpiecznie przechowywać dane na komputerze?",
+        "answers": {
+            "1": "Udostępniać hasła do plików współpracownikom",
+            "2": "Nie korzystać z kopii zapasowych",
+            "3": "Przechowywać dane na niezaszyfrowanych urządzeniach przenośnych",
+            "4": "Regularnie aktualizować oprogramowanie i tworzyć kopie zapasowe"
+        },
+        "correctAnswers": {
+            "text": "Regularnie aktualizować oprogramowanie i tworzyć kopie zapasowe",
+            "number": 4
+        }
+    },
+    {
+        "title": "Które z poniższych narzędzi najlepiej zabezpiecza dane na urządzeniu przenośnym?",
+        "answers": {
+            "1": "Hasło ustawione na urządzeniu",
+            "2": "Zainstalowanie aplikacji rozrywkowych",
+            "3": "Szyfrowanie danych na urządzeniu",
+            "4": "Nieaktualne oprogramowanie"
+        },
+        "correctAnswers": {
+            "text": "Szyfrowanie danych na urządzeniu",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jakie działanie sprzyja ochronie cyfrowego wizerunku w Internecie?",
+        "answers": {
+            "1": "Sprawdzanie ustawień prywatności na portalach społecznościowych",
+            "2": "Udostępnianie swoich danych logowania znajomym",
+            "3": "Publikowanie wszystkich informacji o swoim życiu prywatnym",
+            "4": "Niezweryfikowanie źródeł publikowanych treści"
+        },
+        "correctAnswers": {
+            "text": "Sprawdzanie ustawień prywatności na portalach społecznościowych",
+            "number": 1
+        }
+    },
+    {
+        "title": "Które z poniższych działań może narazić cyfrową tożsamość na niebezpieczeństwo?",
+        "answers": {
+            "1": "Włączanie uwierzytelniania dwuskładnikowego",
+            "2": "Ustawianie unikalnych i silnych haseł",
+            "3": "Klikanie w podejrzane linki w wiadomościach e-mail",
+            "4": "Regularne zmienianie haseł do kont"
+        },
+        "correctAnswers": {
+            "text": "Klikanie w podejrzane linki w wiadomościach e-mail",
+            "number": 3
+        }
+    },
+    {
+        "title": "Jak można ograniczyć ilość danych zbieranych przez aplikacje mobilne?",
+        "answers": {
+            "1": "Sprawdzać i dostosowywać uprawnienia aplikacji w ustawieniach",
+            "2": "Udostępniać aplikacjom wszystkie wymagane dane",
+            "3": "Nie wyłączać dostępu aplikacji do lokalizacji i kontaktów",
+            "4": "Korzystać z aplikacji bez weryfikowania ich pochodzenia"
+        },
+        "correctAnswers": {
+            "text": "Sprawdzać i dostosowywać uprawnienia aplikacji w ustawieniach",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co jest podstawowym celem ochrony danych osobowych?",
+        "answers": {
+            "1": "Zapewnienie anonimowości użytkownikom Internetu",
+            "2": "Publikowanie danych osobowych w celach marketingowych",
+            "3": "Ochrona danych osobowych przed nieuprawnionym dostępem i wykorzystaniem",
+            "4": "Utrudnienie pracy organom ścigania"
+        },
+        "correctAnswers": {
+            "text": "Ochrona danych osobowych przed nieuprawnionym dostępem i wykorzystaniem",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych aktów prawnych dotyczy ochrony danych osobowych w Unii Europejskiej?",
+        "answers": {
+            "1": "GDPR (RODO)",
+            "2": "Open Source Initiative",
+            "3": "DMCA",
+            "4": "Creative Commons"
+        },
+        "correctAnswers": {
+            "text": "GDPR (RODO)",
+            "number": 1
+        }
+    },
+    {
+        "title": "Co to jest własność intelektualna?",
+        "answers": {
+            "1": "Zestaw ustaw o ochronie prywatności",
+            "2": "Lista plików przechowywanych w chmurze",
+            "3": "Koncepcja praw chroniących twórczość i wynalazki",
+            "4": "Zbiór danych osobowych"
+        },
+        "correctAnswers": {
+            "text": "Koncepcja praw chroniących twórczość i wynalazki",
+            "number": 3
+        }
+    },
+    {
+        "title": "Który z poniższych typów danych jest przykładem typu stałoprzecinkowego?",
+        "answers": {
+            "1": "decimal",
+            "2": "int",
+            "3": "double",
+            "4": "float"
+        },
+        "correctAnswers": {
+            "text": "int",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jaka jest główna różnica między typami stałoprzecinkowymi a zmiennoprzecinkowymi?",
+        "answers": {
+            "1": "Stałoprzecinkowe obsługują liczby ujemne, a zmiennoprzecinkowe tylko dodatnie",
+            "2": "Stałoprzecinkowe wymagają więcej pamięci niż zmiennoprzecinkowe",
+            "3": "Stałoprzecinkowe przechowują liczby całkowite, zmiennoprzecinkowe przechowują liczby z częściami dziesiętnymi",
+            "4": "Zmiennoprzecinkowe przechowują tylko liczby ujemne"
+        },
+        "correctAnswers": {
+            "text": "Stałoprzecinkowe przechowują liczby całkowite, zmiennoprzecinkowe przechowują liczby z częściami dziesiętnymi",
+            "number": 3
+        }
+    },
+    {
+        "title": "Czym różni się typ łańcuchowy od znakowego?",
+        "answers": {
+            "1": "Typ znakowy przechowuje pojedyncze znaki, a łańcuchowy ciągi znaków",
+            "2": "Typ łańcuchowy przechowuje pojedyncze znaki, a znakowy długie ciągi znaków",
+            "3": "Typ łańcuchowy obsługuje liczby całkowite, a znakowy liczby zmiennoprzecinkowe",
+            "4": "Typ znakowy przechowuje dane logiczne, a łańcuchowy tekst"
+        },
+        "correctAnswers": {
+            "text": "Typ znakowy przechowuje pojedyncze znaki, a łańcuchowy ciągi znaków",
+            "number": 1
+        }
+    },
+    {
+        "title": "Która instrukcja poprawnie deklaruje zmienną typu łańcuchowego w języku C++?",
+        "answers": {
+            "1": "float name = \"Jan\"",
+            "2": "string name = \"Jan\"",
+            "3": "int name = \"Jan\"",
+            "4": "bool name = \"Jan\""
+        },
+        "correctAnswers": {
+            "text": "string name = \"Jan\"",
+            "number": 2
+        }
+    },
+    {
+        "title": "Jaką wartość przechowuje tablica jednowymiarowa?",
+        "answers": {
+            "1": "Wartość logiczną true lub false",
+            "2": "Wiele wartości pod różnymi indeksami",
+            "3": "Wiele wartości pod jednym indeksem",
+            "4": "Tylko jedną wartość"
+        },
+        "correctAnswers": {
+            "text": "Wiele wartości pod różnymi indeksami",
+            "number": 2
+        }
+    },
+    {
+        "title": "Które stwierdzenie najlepiej opisuje tablicę asocjacyjną?",
+        "answers": {
+            "1": "Tablica, która zmienia rozmiar w czasie wykonania programu",
+            "2": "Tablica, która przechowuje tylko dane tekstowe",
+            "3": "Tablica przechowująca wartości dostępne tylko za pomocą indeksów numerycznych",
+            "4": "Tablica przechowująca dane w postaci par klucz-wartość"
+        },
+        "correctAnswers": {
+            "text": "Tablica przechowująca dane w postaci par klucz-wartość",
+            "number": 4
+        }
+    },
+    {
+        "title": "Jakiej funkcji w C++ można użyć do dynamicznego alokowania pamięci dla tablicy?",
+        "answers": {
+            "1": "delete[]",
+            "2": "free()",
+            "3": "malloc()",
+            "4": "sizeof()"
+        },
+        "correctAnswers": {
+            "text": "malloc()",
+            "number": 3
+        }
+    },
+    {
+        "title": "Które operacje na plikach są podstawowe?",
+        "answers": {
+            "1": "Otwieranie, zapisywanie, odczytywanie, zamykanie",
+            "2": "Zmiana rozszerzenia plików w trakcie działania programu",
+            "3": "Tylko otwieranie i zamykanie plików",
+            "4": "Usuwanie i tworzenie nowych plików"
+        },
+        "correctAnswers": {
+            "text": "Otwieranie, zapisywanie, odczytywanie, zamykanie",
+            "number": 1
+        }
+    },
+    {
+        "title": "Do czego służy iterator w kolekcjach?",
+        "answers": {
+            "1": "Do usuwania elementów z kolekcji",
+            "2": "Do zmiany typu kolekcji w trakcie działania programu",
+            "3": "Do przechodzenia przez elementy kolekcji",
+            "4": "Do tworzenia kopii kolekcji"
+        },
+        "correctAnswers": {
+            "text": "Do przechodzenia przez elementy kolekcji",
+            "number": 3
+        }
+    },
+    {
+        "title": "W którym przypadku kolekcja typu lista będzie bardziej efektywna niż tablica?",
+        "answers": {
+            "1": "Kiedy chcemy uzyskać dostęp do elementów za pomocą indeksu",
+            "2": "Kiedy liczba elementów w kolekcji jest stała",
+            "3": "Kiedy liczba elementów w kolekcji dynamicznie się zmienia",
+            "4": "Kiedy znamy dokładny rozmiar kolekcji przed kompilacją"
+        },
+        "correctAnswers": {
+            "text": "Kiedy liczba elementów w kolekcji dynamicznie się zmienia",
+            "number": 3
+        }
+    },
+    {
+        "title": "Dlaczego warto używać kolekcji typu mapa (np. HashMap w Javie) przy projektowaniu zestawów danych?",
+        "answers": {
+            "1": "Bo umożliwiają sortowanie danych bez dodatkowych operacji",
+            "2": "Ze względu na szybki dostęp do elementów za pomocą klucza",
+            "3": "Bo kolekcje typu mapa zajmują mniej pamięci niż tablice",
+            "4": "Bo nie wymagają znajomości rozmiaru danych przed kompilacją"
+        },
+        "correctAnswers": {
+            "text": "Ze względu na szybki dostęp do elementów za pomocą klucza",
+            "number": 2
+        }
+    },
+    {
+        "title": "Co jest zaletą wykorzystania pseudokodu podczas projektowania algorytmu?",
+        "answers": {
+            "1": "Zrozumiałość dla osób niezaznajomionych z programowaniem",
+            "2": "Łatwość w modyfikacji kodu maszynowego",
+            "3": "Tworzenie dynamicznych struktur danych",
+            "4": "Możliwość szybkiego wykonania algorytmu w dowolnym języku"
+        },
+        "correctAnswers": {
+            "text": "Zrozumiałość dla osób niezaznajomionych z programowaniem",
+            "number": 1
+        }
+    },
+    {
+        "title": "Jakie podejście najlepiej zastosować podczas projektowania aplikacji, która ma działać na różnych platformach?",
+        "answers": {
+            "1": "Skupienie się wyłącznie na wyglądzie aplikacji",
+            "2": "Wyłącznie dostosowanie aplikacji do systemu Windows",
+            "3": "Zastosowanie technik responsywnego projektowania interfejsu",
+            "4": "Tworzenie dedykowanego kody dla każdej platformy"
+        },
+        "correctAnswers": {
+            "text": "Zastosowanie technik responsywnego projektowania interfejsu",
+            "number": 3
+        }
+    },
+    {
+        "title": "Co należy wziąć pod uwagę przy projektowaniu struktury danych dla aplikacji?",
+        "answers": {
+            "1": "Wyłącznie wymagania sprzętowe",
+            "2": "Brak związku między strukturą danych a wydajnością aplikacji",
+            "3": "Wyłącznie typ języka programowania",
+            "4": "Złożoność przetwarzania danych i ich optymalną organizację"
+        },
+        "correctAnswers": {
+            "text": "Złożoność przetwarzania danych i ich optymalną organizację",
+            "number": 4
+        }
+    },
+    {
+        "title": "Czym charakteryzuje się biblioteka statyczna w porównaniu do dynamicznej?",
+        "answers": {
+            "1": "Może być modyfikowana w trakcie działania programu",
+            "2": "Jest ładowana do pamięci podczas działania programu",
+            "3": "Jest dołączana do pliku wykonywalnego podczas kompilacji",
+            "4": "Nie wymaga obecności pliku wykonywalnego"
+        },
+        "correctAnswers": {
+            "text": "Jest dołączana do pliku wykonywalnego podczas kompilacji",
+            "number": 3
+        }
+    }
+]
